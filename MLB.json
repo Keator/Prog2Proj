@@ -1,0 +1,338 @@
+"A";"B";"C";"D";"E";"F"
+"DATE";"OPPONENT";"WIN";"LOSS";"SAVE";"ATTENDANCE"
+"Mon, Apr 3";"vs";"Santana (1-0)";"Strahm (0-1)";;39615
+;"Kansas City";;;;
+"Wed, Apr 5";"vs";"Santiago (1-0)";"Kennedy (0-1)";;15171
+;"Kansas City";;;;
+"Thu, Apr 6";"vs";"Rogers (1-0)";"Minor (0-1)";"Kintzler (1)";16078
+;"Kansas City";;;;
+"Fri, Apr 7";"@";"Hughes (1-0)";"Holland (0-1)";"Kintzler (2)";14004
+;"White Sox";;;;
+"Sat, Apr 8";"@";"Gonzalez (1-0)";"Mejia (0-1)";;23024
+;"White Sox";;;;
+"Sun, Apr 9";"@";"Santana (2-0)";"Quintana (0-2)";"Kintzler (3)";24074
+;"White Sox";;;;
+"Tue, Apr 11";"@";"Boyd (1-1)";"Santiago (1-1)";"Rodriguez (3)";21237
+;"Detroit";;;;
+"Wed, Apr 12";"@";"Fulmer (1-0)";"Gibson (0-1)";"Wilson (1)";23738
+;"Detroit";;;;
+"Thu, Apr 13";"@";"Hughes (2-0)";"Zimmermann (1-1)";"Haley (1)";22573
+;"Detroit";;;;
+"Fri, Apr 14";"vs";"Jennings (1-0)";"Pressly (0-1)";"Robertson (2)";18466
+;"White Sox";;;;
+"Sat, Apr 15";"vs";"Santana (3-0)";"Quintana (0-3)";;25938
+;"White Sox";;;;
+"Sun, Apr 16";"vs";"Jones (1-0)";"Pressly (0-2)";"Robertson (3)";19511
+;"White Sox";;;;
+"Mon, Apr 17";"vs";"Salazar (1-1)";"Gibson (0-2)";"Allen (3)";16961
+;"Cleveland";;;;
+"Tue, Apr 18";"vs";"Tomlin (1-2)";"Hughes (2-1)";;16553
+;"Cleveland";;;;
+"Wed, Apr 19";"vs";;;;
+;"Cleveland";;;;
+"Thu, Apr 20";"vs";"Bauer (1-2)";"Duffey (0-1)";;17339
+;"Cleveland";;;;
+"Fri, Apr 21";"vs";"Santiago (2-1)";"Verlander (1-2)";"Kintzler (4)";22647
+;"Detroit";;;;
+"Sat, Apr 22";"vs";"Hardy (1-0)";"Tonkin (0-1)";"Rodriguez (6)";25719
+;"Detroit";;;;
+"Sun, Apr 23";"vs";"Fulmer (2-1)";"Gibson (0-3)";;26713
+;"Detroit";;;;
+"Mon, Apr 24";"@";"Hughes (3-1)";"Perez (1-3)";"Kintzler (5)";19027
+;"Texas";;;;
+"Tue, Apr 25";"@";"Santana (4-0)";"Cashner (0-2)";;20568
+;"Texas";;;;
+"Wed, Apr 26";"@";"Hamels (2-0)";"Rogers (1-1)";;22365
+;"Texas";;;;
+"Fri, Apr 28";"@";"Breslow (1-0)";"Soria (1-1)";"Kintzler (6)";27911
+;"Kansas City";;;;
+"Sat, Apr 29";"@";;;;
+;"Kansas City";;;;
+"Sun, Apr 30";"@";"Hughes (4-1)";"Hammel (0-3)";"Kintzler (7)";32685
+;"Kansas City";;;;
+"Tue, May 2";"vs";"Santana (5-0)";"Gray (0-1)";;18930
+;"Oakland";;;;
+"Wed, May 3";"vs";"Santiago (3-1)";"Graveman (2-2)";;18658
+;"Oakland";;;;
+"Thu, May 4";"vs";"Cotton (3-3)";"Gibson (0-4)";"Casilla (5)";19247
+;"Oakland";;;;
+"Fri, May 5";"vs";"Kintzler (1-0)";"Barnes (3-1)";;28707
+;"Boston";;;;
+"Sat, May 6";"vs";"Porcello (2-4)";"Tepesch (0-1)";;30859
+;"Boston";;;;
+"Sun, May 7";"vs";"Sale (3-2)";"Santana (5-1)";;31763
+;"Boston";;;;
+"Tue, May 9";"@";"Santiago (4-1)";"Pelfrey (0-3)";;14498
+;"White Sox";;;;
+"Wed, May 10";"@";;;;
+;"White Sox";;;;
+"Thu, May 11";"@";"Pressly (1-2)";"Holland (3-3)";"Kintzler (8)";16084
+;"White Sox";;;;
+"Fri, May 12";"@";"Santana (6-1)";"Tomlin (2-4)";"Kintzler (9)";24452
+;"Cleveland";;;;
+"Sat, May 13";"@";"Berrios (1-0)";"Clevinger (1-1)";"Kintzler (10)";28379
+;"Cleveland";;;;
+"Sun, May 14";"@";"Bauer (3-4)";"Santiago (4-2)";;23099
+;"Cleveland";;;;
+"Tue, May 16";"vs";"Freeland (4-2)";"Hughes (4-2)";"Holland (17)";24295
+;"Colorado";;;;
+"Wed, May 17";"vs";;;;
+;"Colorado";;;;
+"Thu, May 18";"vs";"Marquez (2-2)";"Santana (6-2)";"Holland (18)";20603
+;"Colorado";;;;
+"Thu, May 18";"vs";"Berrios (2-0)";"Chatwood (3-6)";"Kintzler (11)";17140
+;"Colorado";;;;
+"Fri, May 19";"vs";"Kintzler (2-0)";"Alburquerque (0-1)";;23553
+;"Kansas City";;;;
+"Sat, May 20";"vs";;;;
+;"Kansas City";;;;
+"Sun, May 21";"vs";"Minor (1-1)";"Hughes (4-3)";"Herrera (9)";"N/A"
+;"Kansas City";;;;
+"Sun, May 21";"vs";"Mejia (1-1)";"Kennedy (0-4)";;27852
+;"Kansas City";;;;
+"Mon, May 22";"@";"Gibson (1-4)";"Wilson (2-2)";;12882
+;"Baltimore";;;;
+"Tue, May 23";"@";"Santana (7-2)";"Bundy (5-3)";;13294
+;"Baltimore";;;;
+"Wed, May 24";"@";"Berrios (3-0)";"Tillman (1-1)";"Kintzler (12)";32267
+;"Baltimore";;;;
+"Fri, May 26";"vs";"Archer (4-3)";"Santiago (4-3)";"Colome (13)";20949
+;"Tampa Bay";;;;
+"Sat, May 27";"vs";"Rogers (2-1)";"Farquhar (2-2)";"Kintzler (13)";27531
+;"Tampa Bay";;;;
+"Sun, May 28";"vs";"Colome (1-2)";"Santiago (4-4)";"Ramirez (1)";28951
+;"Tampa Bay";;;;
+"Mon, May 29";"vs";"Jankowski (1-0)";"Breslow (1-1)";;24472
+;"Houston";;;;
+"Tue, May 30";"vs";"Fiers (2-2)";"Berrios (3-1)";;22616
+;"Houston";;;;
+"Wed, May 31";"vs";"Feliz (2-0)";"Santiago (4-5)";;25593
+;"Houston";;;;
+"Thu, Jun 1";"@";"Rogers (3-1)";"Alvarez (0-2)";"Kintzler (14)";33426
+;"LA Angels";;;;
+"Fri, Jun 2";"@";"Gibson (2-4)";"Ramirez (5-4)";;39042
+;"LA Angels";;;;
+"Sat, Jun 3";"@";"Shoemaker (5-3)";"Santana (7-3)";;40236
+;"LA Angels";;;;
+"Sun, Jun 4";"@";"Berrios (4-1)";"Nolasco (2-6)";"Kintzler (15)";39701
+;"LA Angels";;;;
+"Tue, Jun 6";"@";"Paxton (5-0)";"Santiago (4-6)";;18166
+;"Seattle";;;;
+"Wed, Jun 7";"@";"Diaz (2-2)";"Kintzler (2-1)";;15732
+;"Seattle";;;;
+"Thu, Jun 8";"@";"Gibson (3-4)";"Bergman (3-3)";"Kintzler (16)";15621
+;"Seattle";;;;
+"Fri, Jun 9";"@";"Santana (8-3)";"Moore (2-7)";;41046
+;"San Francisco";;;;
+"Sat, Jun 10";"@";"Berrios (5-1)";"Samardzija (2-8)";"Kintzler (17)";41255
+;"San Francisco";;;;
+"Sun, Jun 11";"@";"Osich (1-1)";"Belisle (0-1)";;41321
+;"San Francisco";;;;
+"Mon, Jun 12";"vs";"Gallardo (3-6)";"Mejia (1-2)";;16996
+;"Seattle";;;;
+"Tue, Jun 13";"vs";"Gibson (4-4)";"Bergman (3-4)";;17922
+;"Seattle";;;;
+"Wed, Jun 14";"vs";"Gaviglio (3-1)";"Santana (8-4)";"Diaz (11)";22283
+;"Seattle";;;;
+"Thu, Jun 15";"vs";"Berrios (6-1)";"Miranda (6-3)";;24464
+;"Seattle";;;;
+"Fri, Jun 16";"vs";"Carrasco (7-3)";"Turley (0-1)";;30563
+;"Cleveland";;;;
+"Sat, Jun 17";"vs";"McAllister (1-0)";"Wilk (0-1)";;24010
+;"Cleveland";;;;
+"Sat, Jun 17";"vs";"Goody (1-0)";"Mejia (1-3)";;21371
+;"Cleveland";;;;
+"Sun, Jun 18";"vs";"Bauer (6-5)";"Gibson (4-5)";"Miller (1)";35039
+;"Cleveland";;;;
+"Tue, Jun 20";"vs";"Santana (9-4)";"Holland (5-7)";"Kintzler (18)";26095
+;"White Sox";;;;
+"Wed, Jun 21";"vs";"Berrios (7-1)";"Holmberg (1-1)";"Kintzler (19)";33316
+;"White Sox";;;;
+"Thu, Jun 22";"vs";"Quintana (4-8)";"Turley (0-2)";;27684
+;"White Sox";;;;
+"Fri, Jun 23";"@";"Mejia (2-3)";"Bauer (6-6)";;31725
+;"Cleveland";;;;
+"Sat, Jun 24";"@";"Rogers (4-1)";"Allen (0-3)";"Kintzler (20)";33111
+;"Cleveland";;;;
+"Sun, Jun 25";"@";"Santana (10-4)";"Tomlin (4-9)";;29672
+;"Cleveland";;;;
+"Mon, Jun 26";"@";"Sale (10-3)";"Berrios (7-2)";"Kimbrel (21)";37172
+;"Boston";;;;
+"Tue, Jun 27";"@";"Pomeranz (7-4)";"Santiago (4-7)";;36804
+;"Boston";;;;
+"Wed, Jun 28";"@";"Mejia (3-3)";"Porcello (4-10)";"Kintzler (21)";37487
+;"Boston";;;;
+"Thu, Jun 29";"@";"Price (3-2)";"Gibson (4-6)";"Kimbrel (22)";37445
+;"Boston";;;;
+"Fri, Jun 30";"@";"Vargas (12-3)";"Santana (10-5)";;34332
+;"Kansas City";;;;
+"Sat, Jul 1";"@";"Minor (4-1)";"Duffey (0-2)";;25571
+;"Kansas City";;;;
+"Sat, Jul 1";"@";"Jorge (1-0)";"Hammel (4-7)";;32448
+;"Kansas City";;;;
+"Sun, Jul 2";"@";"Alexander (1-2)";"Santiago (4-8)";;28775
+;"Kansas City";;;;
+"Mon, Jul 3";"vs";"Mejia (4-3)";"Meyer (3-5)";;36182
+;"LA Angels";;;;
+"Tue, Jul 4";"vs";"Gibson (5-6)";"Ramirez (7-7)";"Kintzler (22)";25013
+;"LA Angels";;;;
+"Wed, Jul 5";"vs";"Bridwell (3-1)";"Santana (10-6)";"Norris (12)";19106
+;"LA Angels";;;;
+"Thu, Jul 6";"vs";"Berrios (8-2)";"Bundy (8-8)";"Kintzler (23)";19706
+;"Baltimore";;;;
+"Fri, Jul 7";"vs";"Hildenberger (1-0)";"Castro (1-1)";"Kintzler (24)";28668
+;"Baltimore";;;;
+"Sat, Jul 8";"vs";"Miley (4-7)";"Mejia (4-4)";;26323
+;"Baltimore";;;;
+"Sun, Jul 9";"vs";"Jimenez (4-4)";"Gibson (5-7)";;25848
+;"Baltimore";;;;
+"Fri, Jul 14";"@";"Morton (7-3)";"Berrios (8-3)";;38006
+;"Houston";;;;
+"Sat, Jul 15";"@";"Santana (11-6)";"Musgrove (4-8)";"Kintzler (25)";41038
+;"Houston";;;;
+"Sun, Jul 16";"@";"Fiers (6-4)";"Gibson (5-8)";"Giles (20)";38253
+;"Houston";;;;
+"Mon, Jul 17";"vs";"Rogers (5-1)";"Smith (0-1)";"Kintzler (26)";27566
+;"NY Yankees";;;;
+"Tue, Jul 18";"vs";"Shreve (3-1)";"Colon (0-1)";"Chapman (10)";33114
+;"NY Yankees";;;;
+"Wed, Jul 19";"vs";"Berrios (9-3)";"Montgomery (6-5)";;33380
+;"NY Yankees";;;;
+"Fri, Jul 21";"vs";"Sanchez (2-0)";"Santana (11-7)";"Wilson (11)";22369
+;"Detroit";;;;
+"Sat, Jul 22";"vs";"Gibson (6-8)";"Zimmermann (6-8)";"Kintzler (27)";33700
+;"Detroit";;;;
+"Sun, Jul 23";"vs";"Boyd (4-5)";"Hildenberger (1-1)";"Wilson (12)";28373
+;"Detroit";;;;
+"Mon, Jul 24";"@";"Paredes (1-0)";"Rogers (5-2)";"Jansen (25)";47754
+;"LA Dodgers";;;;
+"Tue, Jul 25";"@";"Maeda (9-4)";"Berrios (9-4)";"Ravin (1)";44403
+;"LA Dodgers";;;;
+"Wed, Jul 26";"@";"Jansen (5-0)";"Kintzler (2-2)";;50941
+;"LA Dodgers";;;;
+"Fri, Jul 28";"@";"Garcia (1-0)";"Gossett (2-6)";"Kintzler (28)";17727
+;"Oakland";;;;
+"Sat, Jul 29";"@";"Coulombe (2-1)";"Rogers (5-3)";;27047
+;"Oakland";;;;
+"Sun, Jul 30";"@";"Smith (1-0)";"Duffey (0-3)";;16790
+;"Oakland";;;;
+"Tue, Aug 1";"@";"Chacin (11-7)";"Berrios (9-5)";"Hand (7)";24491
+;"San Diego";;;;
+"Wed, Aug 2";"@";"Santana (12-7)";"Perdomo (5-6)";;23806
+;"San Diego";;;;
+"Thu, Aug 3";"vs";"Griffin (5-2)";"Mejia (4-5)";"Claudio (5)";22903
+;"Texas";;;;
+"Fri, Aug 4";"vs";"Colon (1-1)";"Perez (5-10)";;22272
+;"Texas";;;;
+"Sat, Aug 5";"vs";"Hamels (6-1)";"Gibson (6-9)";;27415
+;"Texas";;;;
+"Sun, Aug 6";"vs";"Berrios (10-5)";"Bibens-Dirkx (3-2)";"Belisle (1)";29056
+;"Texas";;;;
+"Mon, Aug 7";"vs";"Boshers (1-0)";"Drake (3-4)";"Belisle (2)";31339
+;"Milwaukee";;;;
+"Tue, Aug 8";"vs";"Duffey (1-3)";"Garza (5-6)";"Gee (1)";34185
+;"Milwaukee";;;;
+"Wed, Aug 9";"@";"Colon (2-1)";"Woodruff (1-1)";;30174
+;"Milwaukee";;;;
+"Thu, Aug 10";"@";"Busenitz (1-0)";"Davies (13-6)";;33904
+;"Milwaukee";;;;
+"Fri, Aug 11";"@";"Pressly (2-2)";"Sanchez (3-3)";;29733
+;"Detroit";;;;
+"Sat, Aug 12";"@";"Greene (3-2)";"Belisle (0-2)";;33006
+;"Detroit";;;;
+"Sun, Aug 13";"@";"Duffey (2-3)";"Rondon (1-3)";"Hildenberger (1)";30582
+;"Detroit";;;;
+"Tue, Aug 15";"vs";"Salazar (5-5)";"Colon (2-2)";;29626
+;"Cleveland";;;;
+"Wed, Aug 16";"vs";;;;
+;"Cleveland";;;;
+"Thu, Aug 17";"vs";"Carrasco (12-5)";"Gibson (6-10)";;29579
+;"Cleveland";;;;
+"Thu, Aug 17";"vs";"Hildenberger (2-1)";"Clevinger (6-5)";"Belisle (3)";22857
+;"Cleveland";;;;
+"Fri, Aug 18";"vs";"Santana (13-7)";"Godley (5-6)";;25830
+;"Arizona";;;;
+"Sat, Aug 19";"vs";"Berrios (11-5)";"Greinke (14-6)";;29456
+;"Arizona";;;;
+"Sun, Aug 20";"vs";"Colon (3-2)";"McFarland (4-5)";;27367
+;"Arizona";;;;
+"Mon, Aug 21";"@";"Rodon (2-4)";"Melville (0-1)";"Minaya (3)";"N/A"
+;"White Sox";;;;
+"Mon, Aug 21";"@";"Gee (1-0)";"Fulmer (0-1)";"Duffey (1)";14493
+;"White Sox";;;;
+"Tue, Aug 22";"@";"Gibson (7-10)";"Giolito (0-1)";"Belisle (4)";14053
+;"White Sox";;;;
+"Wed, Aug 23";"@";"Farquhar (3-2)";"Hildenberger (2-2)";;15605
+;"White Sox";;;;
+"Thu, Aug 24";"@";"Holland (7-13)";"Berrios (11-6)";;16013
+;"White Sox";;;;
+"Fri, Aug 25";"@";"Colon (4-2)";"Happ (6-10)";;37525
+;"Toronto";;;;
+"Sat, Aug 26";"@";"Estrada (6-8)";"Gee (1-1)";"Osuna (34)";45591
+;"Toronto";;;;
+"Sun, Aug 27";"@";"Gibson (8-10)";"Biagini (3-9)";;42478
+;"Toronto";;;;
+"Tue, Aug 29";"vs";"Santana (14-7)";"Shields (2-5)";"Belisle (5)";20530
+;"White Sox";;;;
+"Wed, Aug 30";"vs";"Berrios (12-6)";"Holland (7-14)";;21172
+;"White Sox";;;;
+"Thu, Aug 31";"vs";"Belisle (1-2)";"Minaya (2-2)";;21288
+;"White Sox";;;;
+"Fri, Sep 1";"vs";"Hammel (7-10)";"Gee (1-2)";"Alexander (2)";24068
+;"Kansas City";;;;
+"Sat, Sep 2";"vs";"Gibson (9-10)";"Garcia (0-1)";;33413
+;"Kansas City";;;;
+"Sun, Sep 3";"vs";"Alexander (4-3)";"Busenitz (1-1)";"Maurer (1)";32234
+;"Kansas City";;;;
+"Mon, Sep 4";"@";"Cobb (10-9)";"Berrios (12-7)";;12108
+;"Tampa Bay";;;;
+"Tue, Sep 5";"@";"Odorizzi (8-7)";"Colon (4-3)";"Colome (42)";6509
+;"Tampa Bay";;;;
+"Wed, Sep 6";"@";"Rogers (6-3)";"Cishek (3-2)";;7185
+;"Tampa Bay";;;;
+"Thu, Sep 7";"@";"Hildenberger (3-2)";"Herrera (3-3)";"Belisle (6)";26485
+;"Kansas City";;;;
+"Fri, Sep 8";"@";"Santana (15-7)";"Kennedy (4-11)";"Belisle (7)";31879
+;"Kansas City";;;;
+"Sat, Sep 9";"@";"Minor (6-6)";"Pressly (2-3)";"Maurer (2)";29991
+;"Kansas City";;;;
+"Sun, Sep 10";"@";"Vargas (15-10)";"Colon (4-4)";;35003
+;"Kansas City";;;;
+"Tue, Sep 12";"vs";"Gibson (10-10)";"Wood (2-3)";;28852
+;"San Diego";;;;
+"Wed, Sep 13";"vs";"Belisle (2-2)";"Maton (3-1)";;20018
+;"San Diego";;;;
+"Thu, Sep 14";"vs";"Gee (2-2)";"Santos (0-1)";;22664
+;"Toronto";;;;
+"Fri, Sep 15";"vs";"Happ (9-10)";"Colon (4-5)";"Osuna (36)";27902
+;"Toronto";;;;
+"Sat, Sep 16";"vs";"Estrada (9-8)";"Mejia (4-6)";;29917
+;"Toronto";;;;
+"Sun, Sep 17";"vs";"Gibson (11-10)";"Biagini (3-11)";;27572
+;"Toronto";;;;
+"Mon, Sep 18";"@";"Robertson (9-2)";"Santana (15-8)";"Chapman (19)";30425
+;"NY Yankees";;;;
+"Tue, Sep 19";"@";"Sabathia (12-5)";"Berrios (12-8)";"Chapman (20)";30218
+;"NY Yankees";;;;
+"Wed, Sep 20";"@";"Shreve (4-1)";"Colon (4-6)";;30099
+;"NY Yankees";;;;
+"Thu, Sep 21";"@";"Gee (3-2)";"Zimmermann (8-13)";;25437
+;"Detroit";;;;
+"Fri, Sep 22";"@";"Gibson (12-10)";"Norris (4-8)";;25390
+;"Detroit";;;;
+"Sat, Sep 23";"@";"Santana (16-8)";"Stumpf (0-1)";;26800
+;"Detroit";;;;
+"Sun, Sep 24";"@";"Berrios (13-8)";"Farmer (4-5)";;23882
+;"Detroit";;;;
+"Tue, Sep 26";"@";"Rogers (7-3)";"Shaw (4-6)";"Belisle (8)";21268
+;"Cleveland";;;;
+"Wed, Sep 27";"@";"Clevinger (12-5)";"Mejia (4-7)";;19682
+;"Cleveland";;;;
+"Thu, Sep 28";"@";"Carrasco (18-6)";"Hildenberger (3-3)";;21810
+;"Cleveland";;;;
+"Fri, Sep 29";"vs";"Berrios (14-8)";"Boyd (6-11)";"Belisle (9)";34580
+;"Detroit";;;;
+"Sat, Sep 30";"vs";"Farmer (5-5)";"Slegers (0-1)";"Greene (9)";35515
+;"Detroit";;;;
+"Sun, Oct 1";"vs";"Colon (5-6)";"Sanchez (3-7)";"Moya (1)";28148
+;"Detroit";;;;
