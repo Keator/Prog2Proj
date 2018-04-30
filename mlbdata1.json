@@ -1,1809 +1,1788 @@
 [
     {
-      "FIELD1": "A",
-      "FIELD2": "B",
-      "FIELD3": "C",
-      "FIELD4": "D",
-      "FIELD5": "E",
-      "FIELD6": "F",
-      "FIELD7" : "H",
-      "FIELD8": "G"
-    },
-    {
-      "FIELD1": "DATE",
-      "FIELD2": "OPPONENT",
-      "FIELD3": "WIN",
-      "FIELD4": "LOSS",
-      "FIELD5": "SAVE",
-      "FIELD6": "ATTENDANCE",
-      "FIELD7": "GAME",
-      "FIELD": "RESULT"
-
-    },
-    {
-      "FIELD1": "Mon, Apr 3",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Santana (1-0)",
-      "FIELD4": "Strahm (0-1)",
-      "FIELD5": "",
-      "FIELD6": "39615",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Mon, Apr 3",
+      "OPPONENT": "Kansas City",
+      "WIN": "Santana (1-0)",
+      "LOSS": "Strahm (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "39615",
+      "GAME": "H",
+      "RESULT": "W"
 
     },
 
     {
-      "FIELD1": "Wed, Apr 5",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Santiago (1-0)",
-      "FIELD4": "Kennedy (0-1)",
-      "FIELD5": "",
-      "FIELD6": "15171",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Wed, Apr 5",
+      "OPPONENT": "Kansas City",
+      "WIN": "Santiago (1-0)",
+      "LOSS": "Kennedy (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "15171",
+      "GAME": "H",
+      "RESULT": "W"
     },
  
     {
-      "FIELD1": "Thu, Apr 6",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Rogers (1-0)",
-      "FIELD4": "Minor (0-1)",
-      "FIELD5": "Kintzler (1)",
-      "FIELD6": "16078",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Thu, Apr 6",
+      "OPPONENT": "Kansas City",
+      "WIN": "Rogers (1-0)",
+      "LOSS": "Minor (0-1)",
+      "SAVE": "Kintzler (1)",
+      "ATTENDANCE": "16078",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, Apr 7",
-      "FIELD2": "White Sox",
-      "FIELD3": "Hughes (1-0)",
-      "FIELD4": "Holland (0-1)",
-      "FIELD5": "Kintzler (2)",
-      "FIELD6": "14004",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Fri, Apr 7",
+      "OPPONENT": "White Sox",
+      "WIN": "Hughes (1-0)",
+      "LOSS": "Holland (0-1)",
+      "SAVE": "Kintzler (2)",
+      "ATTENDANCE": "14004",
+      "GAME": "@",
+      "RESULT": "W"
     },
  
     {
-      "FIELD1": "Sat, Apr 8",
-      "FIELD2": "White Sox",
-      "FIELD3": "Gonzalez (1-0)",
-      "FIELD4": "Mejia (0-1)",
-      "FIELD5": "",
-      "FIELD6": "23024",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Sat, Apr 8",
+      "OPPONENT": "White Sox",
+      "WIN": "Gonzalez (1-0)",
+      "LOSS": "Mejia (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "23024",
+      "GAME": "@",
+      "RESULT": "L"
     },
  
     {
-      "FIELD1": "Sun, Apr 9",
-      "FIELD2": "White Sox",
-      "FIELD3": "Santana (2-0)",
-      "FIELD4": "Quintana (0-2)",
-      "FIELD5": "Kintzler (3)",
-      "FIELD6": "24074",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sun, Apr 9",
+      "OPPONENT": "White Sox",
+      "WIN": "Santana (2-0)",
+      "LOSS": "Quintana (0-2)",
+      "SAVE": "Kintzler (3)",
+      "ATTENDANCE": "24074",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Tue, Apr 11",
-      "FIELD2": "Detroit",
-      "FIELD3": "Boyd (1-1)",
-      "FIELD4": "Santiago (1-1)",
-      "FIELD5": "Rodriguez (3)",
-      "FIELD6": "21237",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Tue, Apr 11",
+      "OPPONENT": "Detroit",
+      "WIN": "Boyd (1-1)",
+      "LOSS": "Santiago (1-1)",
+      "SAVE": "Rodriguez (3)",
+      "ATTENDANCE": "21237",
+      "GAME": "@",
+      "RESULT": "L"
     },
  
     {
-      "FIELD1": "Wed, Apr 12",
-      "FIELD2": "Detroit",
-      "FIELD3": "Fulmer (1-0)",
-      "FIELD4": "Gibson (0-1)",
-      "FIELD5": "Wilson (1)",
-      "FIELD6": "23738",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Wed, Apr 12",
+      "OPPONENT": "Detroit",
+      "WIN": "Fulmer (1-0)",
+      "LOSS": "Gibson (0-1)",
+      "SAVE": "Wilson (1)",
+      "ATTENDANCE": "23738",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Thu, Apr 13",
-      "FIELD2": "Detroit",
-      "FIELD3": "Hughes (2-0)",
-      "FIELD4": "Zimmermann (1-1)",
-      "FIELD5": "Haley (1)",
-      "FIELD6": "22573",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Thu, Apr 13",
+      "OPPONENT": "Detroit",
+      "WIN": "Hughes (2-0)",
+      "LOSS": "Zimmermann (1-1)",
+      "SAVE": "Haley (1)",
+      "ATTENDANCE": "22573",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, Apr 14",
-      "FIELD2": "White Sox",
-      "FIELD3": "Jennings (1-0)",
-      "FIELD4": "Pressly (0-1)",
-      "FIELD5": "Robertson (2)",
-      "FIELD6": "18466",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Fri, Apr 14",
+      "OPPONENT": "White Sox",
+      "WIN": "Jennings (1-0)",
+      "LOSS": "Pressly (0-1)",
+      "SAVE": "Robertson (2)",
+      "ATTENDANCE": "18466",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, Apr 15",
-      "FIELD2": "White Sox",
-      "FIELD3": "Santana (3-0)",
-      "FIELD4": "Quintana (0-3)",
-      "FIELD5": "",
-      "FIELD6": "25938",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Sat, Apr 15",
+      "OPPONENT": "White Sox",
+      "WIN": "Santana (3-0)",
+      "LOSS": "Quintana (0-3)",
+      "SAVE": "",
+      "ATTENDANCE": "25938",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sun, Apr 16",
-      "FIELD2": "White Sox",
-      "FIELD3": "Jones (1-0)",
-      "FIELD4": "Pressly (0-2)",
-      "FIELD5": "Robertson (3)",
-      "FIELD6": "19511",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sun, Apr 16",
+      "OPPONENT": "White Sox",
+      "WIN": "Jones (1-0)",
+      "LOSS": "Pressly (0-2)",
+      "SAVE": "Robertson (3)",
+      "ATTENDANCE": "19511",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Mon, Apr 17",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Salazar (1-1)",
-      "FIELD4": "Gibson (0-2)",
-      "FIELD5": "Allen (3)",
-      "FIELD6": "16961",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Mon, Apr 17",
+      "OPPONENT": "Cleveland",
+      "WIN": "Salazar (1-1)",
+      "LOSS": "Gibson (0-2)",
+      "SAVE": "Allen (3)",
+      "ATTENDANCE": "16961",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Tue, Apr 18",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Tomlin (1-2)",
-      "FIELD4": "Hughes (2-1)",
-      "FIELD5": "",
-      "FIELD6": "16553",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-
-    {
-      "FIELD1": "Thu, Apr 20",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Bauer (1-2)",
-      "FIELD4": "Duffey (0-1)",
-      "FIELD5": "",
-      "FIELD6": "17339",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Fri, Apr 21",
-      "FIELD2": "Detroit",
-      "FIELD3": "Santiago (2-1)",
-      "FIELD4": "Verlander (1-2)",
-      "FIELD5": "Kintzler (4)",
-      "FIELD6": "22647",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Sat, Apr 22",
-      "FIELD2": "Detroit",
-      "FIELD3": "Hardy (1-0)",
-      "FIELD4": "Tonkin (0-1)",
-      "FIELD5": "Rodriguez (6)",
-      "FIELD6": "25719",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Sun, Apr 23",
-      "FIELD2": "Detroit",
-      "FIELD3": "Fulmer (2-1)",
-      "FIELD4": "Gibson (0-3)",
-      "FIELD5": "",
-      "FIELD6": "26713",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Mon, Apr 24",
-      "FIELD2": "Texas",
-      "FIELD3": "Hughes (3-1)",
-      "FIELD4": "Perez (1-3)",
-      "FIELD5": "Kintzler (5)",
-      "FIELD6": "19027",
-      "FIELD7": "@",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Tue, Apr 25",
-      "FIELD2": "Texas",
-      "FIELD3": "Santana (4-0)",
-      "FIELD4": "Cashner (0-2)",
-      "FIELD5": "",
-      "FIELD6": "20568",
-      "FIELD7": "@",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Wed, Apr 26",
-      "FIELD2": "Texas",
-      "FIELD3": "Hamels (2-0)",
-      "FIELD4": "Rogers (1-1)",
-      "FIELD5": "",
-      "FIELD6": "22365",
-      "FIELD7": "@",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Fri, Apr 28",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Breslow (1-0)",
-      "FIELD4": "Soria (1-1)",
-      "FIELD5": "Kintzler (6)",
-      "FIELD6": "27911",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Tue, Apr 18",
+      "OPPONENT": "Cleveland",
+      "WIN": "Tomlin (1-2)",
+      "LOSS": "Hughes (2-1)",
+      "SAVE": "",
+      "ATTENDANCE": "16553",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
 
     {
-      "FIELD1": "Sun, Apr 30",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Hughes (4-1)",
-      "FIELD4": "Hammel (0-3)",
-      "FIELD5": "Kintzler (7)",
-      "FIELD6": "32685",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Thu, Apr 20",
+      "OPPONENT": "Cleveland",
+      "WIN": "Bauer (1-2)",
+      "LOSS": "Duffey (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "17339",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Tue, May 2",
-      "FIELD2": "Oakland",
-      "FIELD3": "Santana (5-0)",
-      "FIELD4": "Gray (0-1)",
-      "FIELD5": "",
-      "FIELD6": "18930",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Fri, Apr 21",
+      "OPPONENT": "Detroit",
+      "WIN": "Santiago (2-1)",
+      "LOSS": "Verlander (1-2)",
+      "SAVE": "Kintzler (4)",
+      "ATTENDANCE": "22647",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Wed, May 3",
-      "FIELD2": "Oakland",
-      "FIELD3": "Santiago (3-1)",
-      "FIELD4": "Graveman (2-2)",
-      "FIELD5": "",
-      "FIELD6": "18658",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Sat, Apr 22",
+      "OPPONENT": "Detroit",
+      "WIN": "Hardy (1-0)",
+      "LOSS": "Tonkin (0-1)",
+      "SAVE": "Rodriguez (6)",
+      "ATTENDANCE": "25719",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Thu, May 4",
-      "FIELD2": "Oakland",
-      "FIELD3": "Cotton (3-3)",
-      "FIELD4": "Gibson (0-4)",
-      "FIELD5": "Casilla (5)",
-      "FIELD6": "19247",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sun, Apr 23",
+      "OPPONENT": "Detroit",
+      "WIN": "Fulmer (2-1)",
+      "LOSS": "Gibson (0-3)",
+      "SAVE": "",
+      "ATTENDANCE": "26713",
+      "GAME": "H",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Mon, Apr 24",
+      "OPPONENT": "Texas",
+      "WIN": "Hughes (3-1)",
+      "LOSS": "Perez (1-3)",
+      "SAVE": "Kintzler (5)",
+      "ATTENDANCE": "19027",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Tue, Apr 25",
+      "OPPONENT": "Texas",
+      "WIN": "Santana (4-0)",
+      "LOSS": "Cashner (0-2)",
+      "SAVE": "",
+      "ATTENDANCE": "20568",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Wed, Apr 26",
+      "OPPONENT": "Texas",
+      "WIN": "Hamels (2-0)",
+      "LOSS": "Rogers (1-1)",
+      "SAVE": "",
+      "ATTENDANCE": "22365",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Fri, Apr 28",
+      "OPPONENT": "Kansas City",
+      "WIN": "Breslow (1-0)",
+      "LOSS": "Soria (1-1)",
+      "SAVE": "Kintzler (6)",
+      "ATTENDANCE": "27911",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+
+    {
+      "DATE": "Sun, Apr 30",
+      "OPPONENT": "Kansas City",
+      "WIN": "Hughes (4-1)",
+      "LOSS": "Hammel (0-3)",
+      "SAVE": "Kintzler (7)",
+      "ATTENDANCE": "32685",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Tue, May 2",
+      "OPPONENT": "Oakland",
+      "WIN": "Santana (5-0)",
+      "LOSS": "Gray (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "18930",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Wed, May 3",
+      "OPPONENT": "Oakland",
+      "WIN": "Santiago (3-1)",
+      "LOSS": "Graveman (2-2)",
+      "SAVE": "",
+      "ATTENDANCE": "18658",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Thu, May 4",
+      "OPPONENT": "Oakland",
+      "WIN": "Cotton (3-3)",
+      "LOSS": "Gibson (0-4)",
+      "SAVE": "Casilla (5)",
+      "ATTENDANCE": "19247",
+      "GAME": "H",
+      "RESULT": "L"
     },
     
     {
-      "FIELD1": "Fri, May 5",
-      "FIELD2": "Boston",
-      "FIELD3": "Kintzler (1-0)",
-      "FIELD4": "Barnes (3-1)",
-      "FIELD5": "",
-      "FIELD6": "28707",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Fri, May 5",
+      "OPPONENT": "Boston",
+      "WIN": "Kintzler (1-0)",
+      "LOSS": "Barnes (3-1)",
+      "SAVE": "",
+      "ATTENDANCE": "28707",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sat, May 6",
-      "FIELD2": "Boston",
-      "FIELD3": "Porcello (2-4)",
-      "FIELD4": "Tepesch (0-1)",
-      "FIELD5": "",
-      "FIELD6": "30859",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sat, May 6",
+      "OPPONENT": "Boston",
+      "WIN": "Porcello (2-4)",
+      "LOSS": "Tepesch (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "30859",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sun, May 7",
-      "FIELD2": "Boston",
-      "FIELD3": "Sale (3-2)",
-      "FIELD4": "Santana (5-1)",
-      "FIELD5": "",
-      "FIELD6": "31763",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sun, May 7",
+      "OPPONENT": "Boston",
+      "WIN": "Sale (3-2)",
+      "LOSS": "Santana (5-1)",
+      "SAVE": "",
+      "ATTENDANCE": "31763",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Tue, May 9",
-      "FIELD2": "White Sox",
-      "FIELD3": "Santiago (4-1)",
-      "FIELD4": "Pelfrey (0-3)",
-      "FIELD5": "",
-      "FIELD6": "14498",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Tue, May 9",
+      "OPPONENT": "White Sox",
+      "WIN": "Santiago (4-1)",
+      "LOSS": "Pelfrey (0-3)",
+      "SAVE": "",
+      "ATTENDANCE": "14498",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
 
     {
-      "FIELD1": "Thu, May 11",
-      "FIELD2": "White Sox",
-      "FIELD3": "Pressly (1-2)",
-      "FIELD4": "Holland (3-3)",
-      "FIELD5": "Kintzler (8)",
-      "FIELD6": "16084",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Thu, May 11",
+      "OPPONENT": "White Sox",
+      "WIN": "Pressly (1-2)",
+      "LOSS": "Holland (3-3)",
+      "SAVE": "Kintzler (8)",
+      "ATTENDANCE": "16084",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, May 12",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Santana (6-1)",
-      "FIELD4": "Tomlin (2-4)",
-      "FIELD5": "Kintzler (9)",
-      "FIELD6": "24452",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Fri, May 12",
+      "OPPONENT": "Cleveland",
+      "WIN": "Santana (6-1)",
+      "LOSS": "Tomlin (2-4)",
+      "SAVE": "Kintzler (9)",
+      "ATTENDANCE": "24452",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sat, May 13",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Berrios (1-0)",
-      "FIELD4": "Clevinger (1-1)",
-      "FIELD5": "Kintzler (10)",
-      "FIELD6": "28379",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sat, May 13",
+      "OPPONENT": "Cleveland",
+      "WIN": "Berrios (1-0)",
+      "LOSS": "Clevinger (1-1)",
+      "SAVE": "Kintzler (10)",
+      "ATTENDANCE": "28379",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sun, May 14",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Bauer (3-4)",
-      "FIELD4": "Santiago (4-2)",
-      "FIELD5": "",
-      "FIELD6": "23099",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Sun, May 14",
+      "OPPONENT": "Cleveland",
+      "WIN": "Bauer (3-4)",
+      "LOSS": "Santiago (4-2)",
+      "SAVE": "",
+      "ATTENDANCE": "23099",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Tue, May 16",
-      "FIELD2": "Colorado",
-      "FIELD3": "Freeland (4-2)",
-      "FIELD4": "Hughes (4-2)",
-      "FIELD5": "Holland (17)",
-      "FIELD6": "24295",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Tue, May 16",
+      "OPPONENT": "Colorado",
+      "WIN": "Freeland (4-2)",
+      "LOSS": "Hughes (4-2)",
+      "SAVE": "Holland (17)",
+      "ATTENDANCE": "24295",
+      "GAME": "H",
+      "RESULT": "L"
     },
  
     {
-      "FIELD1": "Thu, May 18",
-      "FIELD2": "Colorado",
-      "FIELD3": "Marquez (2-2)",
-      "FIELD4": "Santana (6-2)",
-      "FIELD5": "Holland (18)",
-      "FIELD6": "20603",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Thu, May 18",
+      "OPPONENT": "Colorado",
+      "WIN": "Marquez (2-2)",
+      "LOSS": "Santana (6-2)",
+      "SAVE": "Holland (18)",
+      "ATTENDANCE": "20603",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Thu, May 18",
-      "FIELD2": "Colorado",
-      "FIELD3": "Berrios (2-0)",
-      "FIELD4": "Chatwood (3-6)",
-      "FIELD5": "Kintzler (11)",
-      "FIELD6": "17140",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Thu, May 18",
+      "OPPONENT": "Colorado",
+      "WIN": "Berrios (2-0)",
+      "LOSS": "Chatwood (3-6)",
+      "SAVE": "Kintzler (11)",
+      "ATTENDANCE": "17140",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, May 19",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Kintzler (2-0)",
-      "FIELD4": "Alburquerque (0-1)",
-      "FIELD5": "",
-      "FIELD6": "23553",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Fri, May 19",
+      "OPPONENT": "Kansas City",
+      "WIN": "Kintzler (2-0)",
+      "LOSS": "Alburquerque (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "23553",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
 
 
     {
-      "FIELD1": "Sun, May 21",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Minor (1-1)",
-      "FIELD4": "Hughes (4-3)",
-      "FIELD5": "Herrera (9)",
-      "FIELD6": "N/A",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sun, May 21",
+      "OPPONENT": "Kansas City",
+      "WIN": "Minor (1-1)",
+      "LOSS": "Hughes (4-3)",
+      "SAVE": "Herrera (9)",
+      "ATTENDANCE": "N/A",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sun, May 21",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Mejia (1-1)",
-      "FIELD4": "Kennedy (0-4)",
-      "FIELD5": "",
-      "FIELD6": "27852",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sun, May 21",
+      "OPPONENT": "Kansas City",
+      "WIN": "Mejia (1-1)",
+      "LOSS": "Kennedy (0-4)",
+      "SAVE": "",
+      "ATTENDANCE": "27852",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Mon, May 22",
-      "FIELD2": "Baltimore",
-      "FIELD3": "Gibson (1-4)",
-      "FIELD4": "Wilson (2-2)",
-      "FIELD5": "",
-      "FIELD6": "12882",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Mon, May 22",
+      "OPPONENT": "Baltimore",
+      "WIN": "Gibson (1-4)",
+      "LOSS": "Wilson (2-2)",
+      "SAVE": "",
+      "ATTENDANCE": "12882",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Tue, May 23",
-      "FIELD2": "Baltimore",
-      "FIELD3": "Santana (7-2)",
-      "FIELD4": "Bundy (5-3)",
-      "FIELD5": "",
-      "FIELD6": "13294",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Tue, May 23",
+      "OPPONENT": "Baltimore",
+      "WIN": "Santana (7-2)",
+      "LOSS": "Bundy (5-3)",
+      "SAVE": "",
+      "ATTENDANCE": "13294",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Wed, May 24",
-      "FIELD2": "Baltimore",
-      "FIELD3": "Berrios (3-0)",
-      "FIELD4": "Tillman (1-1)",
-      "FIELD5": "Kintzler (12)",
-      "FIELD6": "32267",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Wed, May 24",
+      "OPPONENT": "Baltimore",
+      "WIN": "Berrios (3-0)",
+      "LOSS": "Tillman (1-1)",
+      "SAVE": "Kintzler (12)",
+      "ATTENDANCE": "32267",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, May 26",
-      "FIELD2": "Tampa Bay",
-      "FIELD3": "Archer (4-3)",
-      "FIELD4": "Santiago (4-3)",
-      "FIELD5": "Colome (13)",
-      "FIELD6": "20949",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Fri, May 26",
+      "OPPONENT": "Tampa Bay",
+      "WIN": "Archer (4-3)",
+      "LOSS": "Santiago (4-3)",
+      "SAVE": "Colome (13)",
+      "ATTENDANCE": "20949",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, May 27",
-      "FIELD2": "Tampa Bay",
-      "FIELD3": "Rogers (2-1)",
-      "FIELD4": "Farquhar (2-2)",
-      "FIELD5": "Kintzler (13)",
-      "FIELD6": "27531",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Sat, May 27",
+      "OPPONENT": "Tampa Bay",
+      "WIN": "Rogers (2-1)",
+      "LOSS": "Farquhar (2-2)",
+      "SAVE": "Kintzler (13)",
+      "ATTENDANCE": "27531",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sun, May 28",
-      "FIELD2": "Tampa Bay",
-      "FIELD3": "Colome (1-2)",
-      "FIELD4": "Santiago (4-4)",
-      "FIELD5": "Ramirez (1)",
-      "FIELD6": "28951",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sun, May 28",
+      "OPPONENT": "Tampa Bay",
+      "WIN": "Colome (1-2)",
+      "LOSS": "Santiago (4-4)",
+      "SAVE": "Ramirez (1)",
+      "ATTENDANCE": "28951",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Mon, May 29",
-      "FIELD2": "Houston",
-      "FIELD3": "Jankowski (1-0)",
-      "FIELD4": "Breslow (1-1)",
-      "FIELD5": "",
-      "FIELD6": "24472",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Mon, May 29",
+      "OPPONENT": "Houston",
+      "WIN": "Jankowski (1-0)",
+      "LOSS": "Breslow (1-1)",
+      "SAVE": "",
+      "ATTENDANCE": "24472",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Tue, May 30",
-      "FIELD2": "Houston",
-      "FIELD3": "Fiers (2-2)",
-      "FIELD4": "Berrios (3-1)",
-      "FIELD5": "",
-      "FIELD6": "22616",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Tue, May 30",
+      "OPPONENT": "Houston",
+      "WIN": "Fiers (2-2)",
+      "LOSS": "Berrios (3-1)",
+      "SAVE": "",
+      "ATTENDANCE": "22616",
+      "GAME": "H",
+      "RESULT": "L"
     },
  
     {
-      "FIELD1": "Wed, May 31",
-      "FIELD2": "Houston",
-      "FIELD3": "Feliz (2-0)",
-      "FIELD4": "Santiago (4-5)",
-      "FIELD5": "",
-      "FIELD6": "25593",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Wed, May 31",
+      "OPPONENT": "Houston",
+      "WIN": "Feliz (2-0)",
+      "LOSS": "Santiago (4-5)",
+      "SAVE": "",
+      "ATTENDANCE": "25593",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Thu, Jun 1",
-      "FIELD2": "LA Angels",
-      "FIELD3": "Rogers (3-1)",
-      "FIELD4": "Alvarez (0-2)",
-      "FIELD5": "Kintzler (14)",
-      "FIELD6": "33426",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Thu, Jun 1",
+      "OPPONENT": "LA Angels",
+      "WIN": "Rogers (3-1)",
+      "LOSS": "Alvarez (0-2)",
+      "SAVE": "Kintzler (14)",
+      "ATTENDANCE": "33426",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, Jun 2",
-      "FIELD2": "LA Angels",
-      "FIELD3": "Gibson (2-4)",
-      "FIELD4": "Ramirez (5-4)",
-      "FIELD5": "",
-      "FIELD6": "39042",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Fri, Jun 2",
+      "OPPONENT": "LA Angels",
+      "WIN": "Gibson (2-4)",
+      "LOSS": "Ramirez (5-4)",
+      "SAVE": "",
+      "ATTENDANCE": "39042",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sat, Jun 3",
-      "FIELD2": "LA Angels",
-      "FIELD3": "Shoemaker (5-3)",
-      "FIELD4": "Santana (7-3)",
-      "FIELD5": "",
-      "FIELD6": "40236",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Sat, Jun 3",
+      "OPPONENT": "LA Angels",
+      "WIN": "Shoemaker (5-3)",
+      "LOSS": "Santana (7-3)",
+      "SAVE": "",
+      "ATTENDANCE": "40236",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sun, Jun 4",
-      "FIELD2": "LA Angels",
-      "FIELD3": "Berrios (4-1)",
-      "FIELD4": "Nolasco (2-6)",
-      "FIELD5": "Kintzler (15)",
-      "FIELD6": "39701",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sun, Jun 4",
+      "OPPONENT": "LA Angels",
+      "WIN": "Berrios (4-1)",
+      "LOSS": "Nolasco (2-6)",
+      "SAVE": "Kintzler (15)",
+      "ATTENDANCE": "39701",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Tue, Jun 6",
-      "FIELD2": "Seattle",
-      "FIELD3": "Paxton (5-0)",
-      "FIELD4": "Santiago (4-6)",
-      "FIELD5": "",
-      "FIELD6": "18166",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Tue, Jun 6",
+      "OPPONENT": "Seattle",
+      "WIN": "Paxton (5-0)",
+      "LOSS": "Santiago (4-6)",
+      "SAVE": "",
+      "ATTENDANCE": "18166",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Wed, Jun 7",
-      "FIELD2": "Seattle",
-      "FIELD3": "Diaz (2-2)",
-      "FIELD4": "Kintzler (2-1)",
-      "FIELD5": "",
-      "FIELD6": "15732",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Wed, Jun 7",
+      "OPPONENT": "Seattle",
+      "WIN": "Diaz (2-2)",
+      "LOSS": "Kintzler (2-1)",
+      "SAVE": "",
+      "ATTENDANCE": "15732",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Thu, Jun 8",
-      "FIELD2": "Seattle",
-      "FIELD3": "Gibson (3-4)",
-      "FIELD4": "Bergman (3-3)",
-      "FIELD5": "Kintzler (16)",
-      "FIELD6": "15621",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Thu, Jun 8",
+      "OPPONENT": "Seattle",
+      "WIN": "Gibson (3-4)",
+      "LOSS": "Bergman (3-3)",
+      "SAVE": "Kintzler (16)",
+      "ATTENDANCE": "15621",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, Jun 9",
-      "FIELD2": "San Francisco",
-      "FIELD3": "Santana (8-3)",
-      "FIELD4": "Moore (2-7)",
-      "FIELD5": "",
-      "FIELD6": "41046",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Fri, Jun 9",
+      "OPPONENT": "San Francisco",
+      "WIN": "Santana (8-3)",
+      "LOSS": "Moore (2-7)",
+      "SAVE": "",
+      "ATTENDANCE": "41046",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sat, Jun 10",
-      "FIELD2": "San Francisco",
-      "FIELD3": "Berrios (5-1)",
-      "FIELD4": "Samardzija (2-8)",
-      "FIELD5": "Kintzler (17)",
-      "FIELD6": "41255",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sat, Jun 10",
+      "OPPONENT": "San Francisco",
+      "WIN": "Berrios (5-1)",
+      "LOSS": "Samardzija (2-8)",
+      "SAVE": "Kintzler (17)",
+      "ATTENDANCE": "41255",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sun, Jun 11",
-      "FIELD2": "San Francisco",
-      "FIELD3": "Osich (1-1)",
-      "FIELD4": "Belisle (0-1)",
-      "FIELD5": "",
-      "FIELD6": "41321",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Sun, Jun 11",
+      "OPPONENT": "San Francisco",
+      "WIN": "Osich (1-1)",
+      "LOSS": "Belisle (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "41321",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Mon, Jun 12",
-      "FIELD2": "Seattle",
-      "FIELD3": "Gallardo (3-6)",
-      "FIELD4": "Mejia (1-2)",
-      "FIELD5": "",
-      "FIELD6": "16996",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Mon, Jun 12",
+      "OPPONENT": "Seattle",
+      "WIN": "Gallardo (3-6)",
+      "LOSS": "Mejia (1-2)",
+      "SAVE": "",
+      "ATTENDANCE": "16996",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Tue, Jun 13",
-      "FIELD2": "Seattle",
-      "FIELD3": "Gibson (4-4)",
-      "FIELD4": "Bergman (3-4)",
-      "FIELD5": "",
-      "FIELD6": "17922",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Tue, Jun 13",
+      "OPPONENT": "Seattle",
+      "WIN": "Gibson (4-4)",
+      "LOSS": "Bergman (3-4)",
+      "SAVE": "",
+      "ATTENDANCE": "17922",
+      "GAME": "H",
+      "RESULT": "W"
     },
  
     {
-      "FIELD1": "Wed, Jun 14",
-      "FIELD2": "Seattle",
-      "FIELD3": "Gaviglio (3-1)",
-      "FIELD4": "Santana (8-4)",
-      "FIELD5": "Diaz (11)",
-      "FIELD6": "22283",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Wed, Jun 14",
+      "OPPONENT": "Seattle",
+      "WIN": "Gaviglio (3-1)",
+      "LOSS": "Santana (8-4)",
+      "SAVE": "Diaz (11)",
+      "ATTENDANCE": "22283",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Thu, Jun 15",
-      "FIELD2": "Seattle",
-      "FIELD3": "Berrios (6-1)",
-      "FIELD4": "Miranda (6-3)",
-      "FIELD5": "",
-      "FIELD6": "24464",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Thu, Jun 15",
+      "OPPONENT": "Seattle",
+      "WIN": "Berrios (6-1)",
+      "LOSS": "Miranda (6-3)",
+      "SAVE": "",
+      "ATTENDANCE": "24464",
+      "GAME": "H",
+      "RESULT": "W"
     },
  
     {
-      "FIELD1": "Fri, Jun 16",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Carrasco (7-3)",
-      "FIELD4": "Turley (0-1)",
-      "FIELD5": "",
-      "FIELD6": "30563",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Fri, Jun 16",
+      "OPPONENT": "Cleveland",
+      "WIN": "Carrasco (7-3)",
+      "LOSS": "Turley (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "30563",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, Jun 17",
-      "FIELD2": "Cleveland",
-      "FIELD3": "McAllister (1-0)",
-      "FIELD4": "Wilk (0-1)",
-      "FIELD5": "",
-      "FIELD6": "24010",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sat, Jun 17",
+      "OPPONENT": "Cleveland",
+      "WIN": "McAllister (1-0)",
+      "LOSS": "Wilk (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "24010",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, Jun 17",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Goody (1-0)",
-      "FIELD4": "Mejia (1-3)",
-      "FIELD5": "",
-      "FIELD6": "21371",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sat, Jun 17",
+      "OPPONENT": "Cleveland",
+      "WIN": "Goody (1-0)",
+      "LOSS": "Mejia (1-3)",
+      "SAVE": "",
+      "ATTENDANCE": "21371",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sun, Jun 18",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Bauer (6-5)",
-      "FIELD4": "Gibson (4-5)",
-      "FIELD5": "Miller (1)",
-      "FIELD6": "35039",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sun, Jun 18",
+      "OPPONENT": "Cleveland",
+      "WIN": "Bauer (6-5)",
+      "LOSS": "Gibson (4-5)",
+      "SAVE": "Miller (1)",
+      "ATTENDANCE": "35039",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Tue, Jun 20",
-      "FIELD2": "White Sox",
-      "FIELD3": "Santana (9-4)",
-      "FIELD4": "Holland (5-7)",
-      "FIELD5": "Kintzler (18)",
-      "FIELD6": "26095",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Tue, Jun 20",
+      "OPPONENT": "White Sox",
+      "WIN": "Santana (9-4)",
+      "LOSS": "Holland (5-7)",
+      "SAVE": "Kintzler (18)",
+      "ATTENDANCE": "26095",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Wed, Jun 21",
-      "FIELD2": "White Sox",
-      "FIELD3": "Berrios (7-1)",
-      "FIELD4": "Holmberg (1-1)",
-      "FIELD5": "Kintzler (19)",
-      "FIELD6": "33316",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Wed, Jun 21",
+      "OPPONENT": "White Sox",
+      "WIN": "Berrios (7-1)",
+      "LOSS": "Holmberg (1-1)",
+      "SAVE": "Kintzler (19)",
+      "ATTENDANCE": "33316",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Thu, Jun 22",
-      "FIELD2": "White Sox",
-      "FIELD3": "Quintana (4-8)",
-      "FIELD4": "Turley (0-2)",
-      "FIELD5": "",
-      "FIELD6": "27684",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Thu, Jun 22",
+      "OPPONENT": "White Sox",
+      "WIN": "Quintana (4-8)",
+      "LOSS": "Turley (0-2)",
+      "SAVE": "",
+      "ATTENDANCE": "27684",
+      "GAME": "H",
+      "RESULT": "L"
     },
  
     {
-      "FIELD1": "Fri, Jun 23",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Mejia (2-3)",
-      "FIELD4": "Bauer (6-6)",
-      "FIELD5": "",
-      "FIELD6": "31725",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Fri, Jun 23",
+      "OPPONENT": "Cleveland",
+      "WIN": "Mejia (2-3)",
+      "LOSS": "Bauer (6-6)",
+      "SAVE": "",
+      "ATTENDANCE": "31725",
+      "GAME": "@",
+      "RESULT": "W"
     },
   
     {
-      "FIELD1": "Sat, Jun 24",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Rogers (4-1)",
-      "FIELD4": "Allen (0-3)",
-      "FIELD5": "Kintzler (20)",
-      "FIELD6": "33111",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sat, Jun 24",
+      "OPPONENT": "Cleveland",
+      "WIN": "Rogers (4-1)",
+      "LOSS": "Allen (0-3)",
+      "SAVE": "Kintzler (20)",
+      "ATTENDANCE": "33111",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sun, Jun 25",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Santana (10-4)",
-      "FIELD4": "Tomlin (4-9)",
-      "FIELD5": "",
-      "FIELD6": "29672",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sun, Jun 25",
+      "OPPONENT": "Cleveland",
+      "WIN": "Santana (10-4)",
+      "LOSS": "Tomlin (4-9)",
+      "SAVE": "",
+      "ATTENDANCE": "29672",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Mon, Jun 26",
-      "FIELD2": "Boston",
-      "FIELD3": "Sale (10-3)",
-      "FIELD4": "Berrios (7-2)",
-      "FIELD5": "Kimbrel (21)",
-      "FIELD6": "37172",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Mon, Jun 26",
+      "OPPONENT": "Boston",
+      "WIN": "Sale (10-3)",
+      "LOSS": "Berrios (7-2)",
+      "SAVE": "Kimbrel (21)",
+      "ATTENDANCE": "37172",
+      "GAME": "@",
+      "RESULT": "W"
     },
   
     {
-      "FIELD1": "Tue, Jun 27",
-      "FIELD2": "Boston",
-      "FIELD3": "Pomeranz (7-4)",
-      "FIELD4": "Santiago (4-7)",
-      "FIELD5": "",
-      "FIELD6": "36804",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Tue, Jun 27",
+      "OPPONENT": "Boston",
+      "WIN": "Pomeranz (7-4)",
+      "LOSS": "Santiago (4-7)",
+      "SAVE": "",
+      "ATTENDANCE": "36804",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Wed, Jun 28",
-      "FIELD2": "Boston",
-      "FIELD3": "Mejia (3-3)",
-      "FIELD4": "Porcello (4-10)",
-      "FIELD5": "Kintzler (21)",
-      "FIELD6": "37487",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Wed, Jun 28",
+      "OPPONENT": "Boston",
+      "WIN": "Mejia (3-3)",
+      "LOSS": "Porcello (4-10)",
+      "SAVE": "Kintzler (21)",
+      "ATTENDANCE": "37487",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Thu, Jun 29",
-      "FIELD2": "Boston",
-      "FIELD3": "Price (3-2)",
-      "FIELD4": "Gibson (4-6)",
-      "FIELD5": "Kimbrel (22)",
-      "FIELD6": "37445",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Thu, Jun 29",
+      "OPPONENT": "Boston",
+      "WIN": "Price (3-2)",
+      "LOSS": "Gibson (4-6)",
+      "SAVE": "Kimbrel (22)",
+      "ATTENDANCE": "37445",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Fri, Jun 30",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Vargas (12-3)",
-      "FIELD4": "Santana (10-5)",
-      "FIELD5": "",
-      "FIELD6": "34332",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Fri, Jun 30",
+      "OPPONENT": "Kansas City",
+      "WIN": "Vargas (12-3)",
+      "LOSS": "Santana (10-5)",
+      "SAVE": "",
+      "ATTENDANCE": "34332",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, Jul 1",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Minor (4-1)",
-      "FIELD4": "Duffey (0-2)",
-      "FIELD5": "",
-      "FIELD6": "25571",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Sat, Jul 1",
+      "OPPONENT": "Kansas City",
+      "WIN": "Minor (4-1)",
+      "LOSS": "Duffey (0-2)",
+      "SAVE": "",
+      "ATTENDANCE": "25571",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, Jul 1",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Jorge (1-0)",
-      "FIELD4": "Hammel (4-7)",
-      "FIELD5": "",
-      "FIELD6": "32448",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sat, Jul 1",
+      "OPPONENT": "Kansas City",
+      "WIN": "Jorge (1-0)",
+      "LOSS": "Hammel (4-7)",
+      "SAVE": "",
+      "ATTENDANCE": "32448",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sun, Jul 2",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Alexander (1-2)",
-      "FIELD4": "Santiago (4-8)",
-      "FIELD5": "",
-      "FIELD6": "28775",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Sun, Jul 2",
+      "OPPONENT": "Kansas City",
+      "WIN": "Alexander (1-2)",
+      "LOSS": "Santiago (4-8)",
+      "SAVE": "",
+      "ATTENDANCE": "28775",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Mon, Jul 3",
-      "FIELD2": "LA Angels",
-      "FIELD3": "Mejia (4-3)",
-      "FIELD4": "Meyer (3-5)",
-      "FIELD5": "",
-      "FIELD6": "36182",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Mon, Jul 3",
+      "OPPONENT": "LA Angels",
+      "WIN": "Mejia (4-3)",
+      "LOSS": "Meyer (3-5)",
+      "SAVE": "",
+      "ATTENDANCE": "36182",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Tue, Jul 4",
-      "FIELD2": "LA Angels",
-      "FIELD3": "Gibson (5-6)",
-      "FIELD4": "Ramirez (7-7)",
-      "FIELD5": "Kintzler (22)",
-      "FIELD6": "25013",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
- 
-    {
-      "FIELD1": "Wed, Jul 5",
-      "FIELD2": "LA Angels",
-      "FIELD3": "Bridwell (3-1)",
-      "FIELD4": "Santana (10-6)",
-      "FIELD5": "Norris (12)",
-      "FIELD6": "19106",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Thu, Jul 6",
-      "FIELD2": "Baltimore",
-      "FIELD3": "Berrios (8-2)",
-      "FIELD4": "Bundy (8-8)",
-      "FIELD5": "Kintzler (23)",
-      "FIELD6": "19706",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Fri, Jul 7",
-      "FIELD2": "Baltimore",
-      "FIELD3": "Hildenberger (1-0)",
-      "FIELD4": "Castro (1-1)",
-      "FIELD5": "Kintzler (24)",
-      "FIELD6": "28668",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Sat, Jul 8",
-      "FIELD2": "Baltimore",
-      "FIELD3": "Miley (4-7)",
-      "FIELD4": "Mejia (4-4)",
-      "FIELD5": "",
-      "FIELD6": "26323",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Sun, Jul 9",
-      "FIELD2": "Baltimore",
-      "FIELD3": "Jimenez (4-4)",
-      "FIELD4": "Gibson (5-7)",
-      "FIELD5": "",
-      "FIELD6": "25848",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Fri, Jul 14",
-      "FIELD2": "Houston",
-      "FIELD3": "Morton (7-3)",
-      "FIELD4": "Berrios (8-3)",
-      "FIELD5": "",
-      "FIELD6": "38006",
-      "FIELD7": "@"
-    },
-
-    {
-      "FIELD1": "Sat, Jul 15",
-      "FIELD2": "Houston",
-      "FIELD3": "Santana (11-6)",
-      "FIELD4": "Musgrove (4-8)",
-      "FIELD5": "Kintzler (25)",
-      "FIELD6": "41038",
-      "FIELD7": "@",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Sun, Jul 16",
-      "FIELD2": "Houston",
-      "FIELD3": "Fiers (6-4)",
-      "FIELD4": "Gibson (5-8)",
-      "FIELD5": "Giles (20)",
-      "FIELD6": "38253",
-      "FIELD7": "@",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Mon, Jul 17",
-      "FIELD2": "NY Yankees",
-      "FIELD3": "Rogers (5-1)",
-      "FIELD4": "Smith (0-1)",
-      "FIELD5": "Kintzler (26)",
-      "FIELD6": "27566",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Tue, Jul 18",
-      "FIELD2": "NY Yankees",
-      "FIELD3": "Shreve (3-1)",
-      "FIELD4": "Colon (0-1)",
-      "FIELD5": "Chapman (10)",
-      "FIELD6": "33114",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Wed, Jul 19",
-      "FIELD2": "NY Yankees",
-      "FIELD3": "Berrios (9-3)",
-      "FIELD4": "Montgomery (6-5)",
-      "FIELD5": "",
-      "FIELD6": "33380",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Fri, Jul 21",
-      "FIELD2": "Detroit",
-      "FIELD3": "Sanchez (2-0)",
-      "FIELD4": "Santana (11-7)",
-      "FIELD5": "Wilson (11)",
-      "FIELD6": "22369",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Sat, Jul 22",
-      "FIELD2": "Detroit",
-      "FIELD3": "Gibson (6-8)",
-      "FIELD4": "Zimmermann (6-8)",
-      "FIELD5": "Kintzler (27)",
-      "FIELD6": "33700",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Sun, Jul 23",
-      "FIELD2": "Detroit",
-      "FIELD3": "Boyd (4-5)",
-      "FIELD4": "Hildenberger (1-1)",
-      "FIELD5": "Wilson (12)",
-      "FIELD6": "28373",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Mon, Jul 24",
-      "FIELD2": "LA Dodgers",
-      "FIELD3": "Paredes (1-0)",
-      "FIELD4": "Rogers (5-2)",
-      "FIELD5": "Jansen (25)",
-      "FIELD6": "47754",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Tue, Jul 25",
-      "FIELD2": "LA Dodgers",
-      "FIELD3": "Maeda (9-4)",
-      "FIELD4": "Berrios (9-4)",
-      "FIELD5": "Ravin (1)",
-      "FIELD6": "44403",
-      "FIELD7": "@",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Wed, Jul 26",
-      "FIELD2": "LA Dodgers",
-      "FIELD3": "Jansen (5-0)",
-      "FIELD4": "Kintzler (2-2)",
-      "FIELD5": "",
-      "FIELD6": "50941",
-      "FIELD7": "@",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Fri, Jul 28",
-      "FIELD2": "Oakland",
-      "FIELD3": "Garcia (1-0)",
-      "FIELD4": "Gossett (2-6)",
-      "FIELD5": "Kintzler (28)",
-      "FIELD6": "17727",
-      "FIELD7": "@",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Sat, Jul 29",
-      "FIELD2": "Oakland",
-      "FIELD3": "Coulombe (2-1)",
-      "FIELD4": "Rogers (5-3)",
-      "FIELD5": "",
-      "FIELD6": "27047",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Tue, Jul 4",
+      "OPPONENT": "LA Angels",
+      "WIN": "Gibson (5-6)",
+      "LOSS": "Ramirez (7-7)",
+      "SAVE": "Kintzler (22)",
+      "ATTENDANCE": "25013",
+      "GAME": "H",
+      "RESULT": "W"
     },
  
     {
-      "FIELD1": "Sun, Jul 30",
-      "FIELD2": "Oakland",
-      "FIELD3": "Smith (1-0)",
-      "FIELD4": "Duffey (0-3)",
-      "FIELD5": "",
-      "FIELD6": "16790",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Wed, Jul 5",
+      "OPPONENT": "LA Angels",
+      "WIN": "Bridwell (3-1)",
+      "LOSS": "Santana (10-6)",
+      "SAVE": "Norris (12)",
+      "ATTENDANCE": "19106",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Tue, Aug 1",
-      "FIELD2": "San Diego",
-      "FIELD3": "Chacin (11-7)",
-      "FIELD4": "Berrios (9-5)",
-      "FIELD5": "Hand (7)",
-      "FIELD6": "24491",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Thu, Jul 6",
+      "OPPONENT": "Baltimore",
+      "WIN": "Berrios (8-2)",
+      "LOSS": "Bundy (8-8)",
+      "SAVE": "Kintzler (23)",
+      "ATTENDANCE": "19706",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Wed, Aug 2",
-      "FIELD2": "San Diego",
-      "FIELD3": "Santana (12-7)",
-      "FIELD4": "Perdomo (5-6)",
-      "FIELD5": "",
-      "FIELD6": "23806",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Fri, Jul 7",
+      "OPPONENT": "Baltimore",
+      "WIN": "Hildenberger (1-0)",
+      "LOSS": "Castro (1-1)",
+      "SAVE": "Kintzler (24)",
+      "ATTENDANCE": "28668",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Thu, Aug 3",
-      "FIELD2": "Texas",
-      "FIELD3": "Griffin (5-2)",
-      "FIELD4": "Mejia (4-5)",
-      "FIELD5": "Claudio (5)",
-      "FIELD6": "22903",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Sat, Jul 8",
+      "OPPONENT": "Baltimore",
+      "WIN": "Miley (4-7)",
+      "LOSS": "Mejia (4-4)",
+      "SAVE": "",
+      "ATTENDANCE": "26323",
+      "GAME": "H",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Sun, Jul 9",
+      "OPPONENT": "Baltimore",
+      "WIN": "Jimenez (4-4)",
+      "LOSS": "Gibson (5-7)",
+      "SAVE": "",
+      "ATTENDANCE": "25848",
+      "GAME": "H",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Fri, Jul 14",
+      "OPPONENT": "Houston",
+      "WIN": "Morton (7-3)",
+      "LOSS": "Berrios (8-3)",
+      "SAVE": "",
+      "ATTENDANCE": "38006",
+      "GAME": "@"
+    },
+
+    {
+      "DATE": "Sat, Jul 15",
+      "OPPONENT": "Houston",
+      "WIN": "Santana (11-6)",
+      "LOSS": "Musgrove (4-8)",
+      "SAVE": "Kintzler (25)",
+      "ATTENDANCE": "41038",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Sun, Jul 16",
+      "OPPONENT": "Houston",
+      "WIN": "Fiers (6-4)",
+      "LOSS": "Gibson (5-8)",
+      "SAVE": "Giles (20)",
+      "ATTENDANCE": "38253",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Mon, Jul 17",
+      "OPPONENT": "NY Yankees",
+      "WIN": "Rogers (5-1)",
+      "LOSS": "Smith (0-1)",
+      "SAVE": "Kintzler (26)",
+      "ATTENDANCE": "27566",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Tue, Jul 18",
+      "OPPONENT": "NY Yankees",
+      "WIN": "Shreve (3-1)",
+      "LOSS": "Colon (0-1)",
+      "SAVE": "Chapman (10)",
+      "ATTENDANCE": "33114",
+      "GAME": "H",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Wed, Jul 19",
+      "OPPONENT": "NY Yankees",
+      "WIN": "Berrios (9-3)",
+      "LOSS": "Montgomery (6-5)",
+      "SAVE": "",
+      "ATTENDANCE": "33380",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Fri, Jul 21",
+      "OPPONENT": "Detroit",
+      "WIN": "Sanchez (2-0)",
+      "LOSS": "Santana (11-7)",
+      "SAVE": "Wilson (11)",
+      "ATTENDANCE": "22369",
+      "GAME": "H",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Sat, Jul 22",
+      "OPPONENT": "Detroit",
+      "WIN": "Gibson (6-8)",
+      "LOSS": "Zimmermann (6-8)",
+      "SAVE": "Kintzler (27)",
+      "ATTENDANCE": "33700",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Sun, Jul 23",
+      "OPPONENT": "Detroit",
+      "WIN": "Boyd (4-5)",
+      "LOSS": "Hildenberger (1-1)",
+      "SAVE": "Wilson (12)",
+      "ATTENDANCE": "28373",
+      "GAME": "H",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Mon, Jul 24",
+      "OPPONENT": "LA Dodgers",
+      "WIN": "Paredes (1-0)",
+      "LOSS": "Rogers (5-2)",
+      "SAVE": "Jansen (25)",
+      "ATTENDANCE": "47754",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Tue, Jul 25",
+      "OPPONENT": "LA Dodgers",
+      "WIN": "Maeda (9-4)",
+      "LOSS": "Berrios (9-4)",
+      "SAVE": "Ravin (1)",
+      "ATTENDANCE": "44403",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Wed, Jul 26",
+      "OPPONENT": "LA Dodgers",
+      "WIN": "Jansen (5-0)",
+      "LOSS": "Kintzler (2-2)",
+      "SAVE": "",
+      "ATTENDANCE": "50941",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Fri, Jul 28",
+      "OPPONENT": "Oakland",
+      "WIN": "Garcia (1-0)",
+      "LOSS": "Gossett (2-6)",
+      "SAVE": "Kintzler (28)",
+      "ATTENDANCE": "17727",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Sat, Jul 29",
+      "OPPONENT": "Oakland",
+      "WIN": "Coulombe (2-1)",
+      "LOSS": "Rogers (5-3)",
+      "SAVE": "",
+      "ATTENDANCE": "27047",
+      "GAME": "@",
+      "RESULT": "L"
     },
  
     {
-      "FIELD1": "Fri, Aug 4",
-      "FIELD2": "Texas",
-      "FIELD3": "Colon (1-1)",
-      "FIELD4": "Perez (5-10)",
-      "FIELD5": "",
-      "FIELD6": "22272",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Sun, Jul 30",
+      "OPPONENT": "Oakland",
+      "WIN": "Smith (1-0)",
+      "LOSS": "Duffey (0-3)",
+      "SAVE": "",
+      "ATTENDANCE": "16790",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, Aug 5",
-      "FIELD2": "Texas",
-      "FIELD3": "Hamels (6-1)",
-      "FIELD4": "Gibson (6-9)",
-      "FIELD5": "",
-      "FIELD6": "27415",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Tue, Aug 1",
+      "OPPONENT": "San Diego",
+      "WIN": "Chacin (11-7)",
+      "LOSS": "Berrios (9-5)",
+      "SAVE": "Hand (7)",
+      "ATTENDANCE": "24491",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sun, Aug 6",
-      "FIELD2": "Texas",
-      "FIELD3": "Berrios (10-5)",
-      "FIELD4": "Bibens-Dirkx (3-2)",
-      "FIELD5": "Belisle (1)",
-      "FIELD6": "29056",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Wed, Aug 2",
+      "OPPONENT": "San Diego",
+      "WIN": "Santana (12-7)",
+      "LOSS": "Perdomo (5-6)",
+      "SAVE": "",
+      "ATTENDANCE": "23806",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Mon, Aug 7",
-      "FIELD2": "Milwaukee",
-      "FIELD3": "Boshers (1-0)",
-      "FIELD4": "Drake (3-4)",
-      "FIELD5": "Belisle (2)",
-      "FIELD6": "31339",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Tue, Aug 8",
-      "FIELD2": "Milwaukee",
-      "FIELD3": "Duffey (1-3)",
-      "FIELD4": "Garza (5-6)",
-      "FIELD5": "Gee (1)",
-      "FIELD6": "34185",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Wed, Aug 9",
-      "FIELD2": "Milwaukee",
-      "FIELD3": "Colon (2-1)",
-      "FIELD4": "Woodruff (1-1)",
-      "FIELD5": "",
-      "FIELD6": "30174",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Thu, Aug 3",
+      "OPPONENT": "Texas",
+      "WIN": "Griffin (5-2)",
+      "LOSS": "Mejia (4-5)",
+      "SAVE": "Claudio (5)",
+      "ATTENDANCE": "22903",
+      "GAME": "H",
+      "RESULT": "W"
     },
  
     {
-      "FIELD1": "Thu, Aug 10",
-      "FIELD2": "Milwaukee",
-      "FIELD3": "Busenitz (1-0)",
-      "FIELD4": "Davies (13-6)",
-      "FIELD5": "",
-      "FIELD6": "33904",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Fri, Aug 4",
+      "OPPONENT": "Texas",
+      "WIN": "Colon (1-1)",
+      "LOSS": "Perez (5-10)",
+      "SAVE": "",
+      "ATTENDANCE": "22272",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, Aug 11",
-      "FIELD2": "Detroit",
-      "FIELD3": "Pressly (2-2)",
-      "FIELD4": "Sanchez (3-3)",
-      "FIELD5": "",
-      "FIELD6": "29733",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sat, Aug 5",
+      "OPPONENT": "Texas",
+      "WIN": "Hamels (6-1)",
+      "LOSS": "Gibson (6-9)",
+      "SAVE": "",
+      "ATTENDANCE": "27415",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, Aug 12",
-      "FIELD2": "Detroit",
-      "FIELD3": "Greene (3-2)",
-      "FIELD4": "Belisle (0-2)",
-      "FIELD5": "",
-      "FIELD6": "33006",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Sun, Aug 6",
+      "OPPONENT": "Texas",
+      "WIN": "Berrios (10-5)",
+      "LOSS": "Bibens-Dirkx (3-2)",
+      "SAVE": "Belisle (1)",
+      "ATTENDANCE": "29056",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sun, Aug 13",
-      "FIELD2": "Detroit",
-      "FIELD3": "Duffey (2-3)",
-      "FIELD4": "Rondon (1-3)",
-      "FIELD5": "Hildenberger (1)",
-      "FIELD6": "30582",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Mon, Aug 7",
+      "OPPONENT": "Milwaukee",
+      "WIN": "Boshers (1-0)",
+      "LOSS": "Drake (3-4)",
+      "SAVE": "Belisle (2)",
+      "ATTENDANCE": "31339",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Tue, Aug 15",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Salazar (5-5)",
-      "FIELD4": "Colon (2-2)",
-      "FIELD5": "",
-      "FIELD6": "29626",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Tue, Aug 8",
+      "OPPONENT": "Milwaukee",
+      "WIN": "Duffey (1-3)",
+      "LOSS": "Garza (5-6)",
+      "SAVE": "Gee (1)",
+      "ATTENDANCE": "34185",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Thu, Aug 17",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Carrasco (12-5)",
-      "FIELD4": "Gibson (6-10)",
-      "FIELD5": "",
-      "FIELD6": "29579",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Thu, Aug 17",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Hildenberger (2-1)",
-      "FIELD4": "Clevinger (6-5)",
-      "FIELD5": "Belisle (3)",
-      "FIELD6": "22857",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Fri, Aug 18",
-      "FIELD2": "Arizona",
-      "FIELD3": "Santana (13-7)",
-      "FIELD4": "Godley (5-6)",
-      "FIELD5": "",
-      "FIELD6": "25830",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Sat, Aug 19",
-      "FIELD2": "Arizona",
-      "FIELD3": "Berrios (11-5)",
-      "FIELD4": "Greinke (14-6)",
-      "FIELD5": "",
-      "FIELD6": "29456",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Sun, Aug 20",
-      "FIELD2": "Arizona",
-      "FIELD3": "Colon (3-2)",
-      "FIELD4": "McFarland (4-5)",
-      "FIELD5": "",
-      "FIELD6": "27367",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Mon, Aug 21",
-      "FIELD2": "White Sox",
-      "FIELD3": "Rodon (2-4)",
-      "FIELD4": "Melville (0-1)",
-      "FIELD5": "Minaya (3)",
-      "FIELD6": "N/A",
-      "FIELD7": "@",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Mon, Aug 21",
-      "FIELD2": "White Sox",
-      "FIELD3": "Gee (1-0)",
-      "FIELD4": "Fulmer (0-1)",
-      "FIELD5": "Duffey (1)",
-      "FIELD6": "14493",
-      "FIELD7": "@",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Tue, Aug 22",
-      "FIELD2": "White Sox",
-      "FIELD3": "Gibson (7-10)",
-      "FIELD4": "Giolito (0-1)",
-      "FIELD5": "Belisle (4)",
-      "FIELD6": "14053",
-      "FIELD7": "@",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Wed, Aug 23",
-      "FIELD2": "White Sox",
-      "FIELD3": "Farquhar (3-2)",
-      "FIELD4": "Hildenberger (2-2)",
-      "FIELD5": "",
-      "FIELD6": "15605",
-      "FIELD7": "@",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Thu, Aug 24",
-      "FIELD2": "White Sox",
-      "FIELD3": "Holland (7-13)",
-      "FIELD4": "Berrios (11-6)",
-      "FIELD5": "",
-      "FIELD6": "16013",
-      "FIELD7": "@",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Fri, Aug 25",
-      "FIELD2": "Toronto",
-      "FIELD3": "Colon (4-2)",
-      "FIELD4": "Happ (6-10)",
-      "FIELD5": "",
-      "FIELD6": "37525",
-      "FIELD7": "@",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Sat, Aug 26",
-      "FIELD2": "Toronto",
-      "FIELD3": "Estrada (6-8)",
-      "FIELD4": "Gee (1-1)",
-      "FIELD5": "Osuna (34)",
-      "FIELD6": "45591",
-      "FIELD7": "@",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Sun, Aug 27",
-      "FIELD2": "Toronto",
-      "FIELD3": "Gibson (8-10)",
-      "FIELD4": "Biagini (3-9)",
-      "FIELD5": "",
-      "FIELD6": "42478",
-      "FIELD7": "@",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Tue, Aug 29",
-      "FIELD2": "White Sox",
-      "FIELD3": "Santana (14-7)",
-      "FIELD4": "Shields (2-5)",
-      "FIELD5": "Belisle (5)",
-      "FIELD6": "20530",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Wed, Aug 30",
-      "FIELD2": "White Sox",
-      "FIELD3": "Berrios (12-6)",
-      "FIELD4": "Holland (7-14)",
-      "FIELD5": "",
-      "FIELD6": "21172",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Thu, Aug 31",
-      "FIELD2": "White Sox",
-      "FIELD3": "Belisle (1-2)",
-      "FIELD4": "Minaya (2-2)",
-      "FIELD5": "",
-      "FIELD6": "21288",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Fri, Sep 1",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Hammel (7-10)",
-      "FIELD4": "Gee (1-2)",
-      "FIELD5": "Alexander (2)",
-      "FIELD6": "24068",
-      "FIELD7": "H",
-      "FIELD8": "L"
-    },
-
-    {
-      "FIELD1": "Sat, Sep 2",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Gibson (9-10)",
-      "FIELD4": "Garcia (0-1)",
-      "FIELD5": "",
-      "FIELD6": "33413",
-      "FIELD7": "H",
-      "FIELD8": "W"
-    },
-
-    {
-      "FIELD1": "Sun, Sep 3",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Alexander (4-3)",
-      "FIELD4": "Busenitz (1-1)",
-      "FIELD5": "Maurer (1)",
-      "FIELD6": "32234",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Wed, Aug 9",
+      "OPPONENT": "Milwaukee",
+      "WIN": "Colon (2-1)",
+      "LOSS": "Woodruff (1-1)",
+      "SAVE": "",
+      "ATTENDANCE": "30174",
+      "GAME": "@",
+      "RESULT": "W"
     },
  
     {
-      "FIELD1": "Mon, Sep 4",
-      "FIELD2": "Tampa Bay",
-      "FIELD3": "Cobb (10-9)",
-      "FIELD4": "Berrios (12-7)",
-      "FIELD5": "",
-      "FIELD6": "12108",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Thu, Aug 10",
+      "OPPONENT": "Milwaukee",
+      "WIN": "Busenitz (1-0)",
+      "LOSS": "Davies (13-6)",
+      "SAVE": "",
+      "ATTENDANCE": "33904",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Tue, Sep 5",
-      "FIELD2": "Tampa Bay",
-      "FIELD3": "Odorizzi (8-7)",
-      "FIELD4": "Colon (4-3)",
-      "FIELD5": "Colome (42)",
-      "FIELD6": "6509",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Fri, Aug 11",
+      "OPPONENT": "Detroit",
+      "WIN": "Pressly (2-2)",
+      "LOSS": "Sanchez (3-3)",
+      "SAVE": "",
+      "ATTENDANCE": "29733",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Wed, Sep 6",
-      "FIELD2": "Tampa Bay",
-      "FIELD3": "Rogers (6-3)",
-      "FIELD4": "Cishek (3-2)",
-      "FIELD5": "",
-      "FIELD6": "7185",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sat, Aug 12",
+      "OPPONENT": "Detroit",
+      "WIN": "Greene (3-2)",
+      "LOSS": "Belisle (0-2)",
+      "SAVE": "",
+      "ATTENDANCE": "33006",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Thu, Sep 7",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Hildenberger (3-2)",
-      "FIELD4": "Herrera (3-3)",
-      "FIELD5": "Belisle (6)",
-      "FIELD6": "26485",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sun, Aug 13",
+      "OPPONENT": "Detroit",
+      "WIN": "Duffey (2-3)",
+      "LOSS": "Rondon (1-3)",
+      "SAVE": "Hildenberger (1)",
+      "ATTENDANCE": "30582",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, Sep 8",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Santana (15-7)",
-      "FIELD4": "Kennedy (4-11)",
-      "FIELD5": "Belisle (7)",
-      "FIELD6": "31879",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Tue, Aug 15",
+      "OPPONENT": "Cleveland",
+      "WIN": "Salazar (5-5)",
+      "LOSS": "Colon (2-2)",
+      "SAVE": "",
+      "ATTENDANCE": "29626",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, Sep 9",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Minor (6-6)",
-      "FIELD4": "Pressly (2-3)",
-      "FIELD5": "Maurer (2)",
-      "FIELD6": "29991",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Thu, Aug 17",
+      "OPPONENT": "Cleveland",
+      "WIN": "Carrasco (12-5)",
+      "LOSS": "Gibson (6-10)",
+      "SAVE": "",
+      "ATTENDANCE": "29579",
+      "GAME": "H",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sun, Sep 10",
-      "FIELD2": "Kansas City",
-      "FIELD3": "Vargas (15-10)",
-      "FIELD4": "Colon (4-4)",
-      "FIELD5": "",
-      "FIELD6": "35003",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Thu, Aug 17",
+      "OPPONENT": "Cleveland",
+      "WIN": "Hildenberger (2-1)",
+      "LOSS": "Clevinger (6-5)",
+      "SAVE": "Belisle (3)",
+      "ATTENDANCE": "22857",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Tue, Sep 12",
-      "FIELD2": "San Diego",
-      "FIELD3": "Gibson (10-10)",
-      "FIELD4": "Wood (2-3)",
-      "FIELD5": "",
-      "FIELD6": "28852",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Fri, Aug 18",
+      "OPPONENT": "Arizona",
+      "WIN": "Santana (13-7)",
+      "LOSS": "Godley (5-6)",
+      "SAVE": "",
+      "ATTENDANCE": "25830",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Wed, Sep 13",
-      "FIELD2": "San Diego",
-      "FIELD3": "Belisle (2-2)",
-      "FIELD4": "Maton (3-1)",
-      "FIELD5": "",
-      "FIELD6": "20018",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Sat, Aug 19",
+      "OPPONENT": "Arizona",
+      "WIN": "Berrios (11-5)",
+      "LOSS": "Greinke (14-6)",
+      "SAVE": "",
+      "ATTENDANCE": "29456",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Thu, Sep 14",
-      "FIELD2": "Toronto",
-      "FIELD3": "Gee (2-2)",
-      "FIELD4": "Santos (0-1)",
-      "FIELD5": "",
-      "FIELD6": "22664",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Sun, Aug 20",
+      "OPPONENT": "Arizona",
+      "WIN": "Colon (3-2)",
+      "LOSS": "McFarland (4-5)",
+      "SAVE": "",
+      "ATTENDANCE": "27367",
+      "GAME": "H",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Fri, Sep 15",
-      "FIELD2": "Toronto",
-      "FIELD3": "Happ (9-10)",
-      "FIELD4": "Colon (4-5)",
-      "FIELD5": "Osuna (36)",
-      "FIELD6": "27902",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Mon, Aug 21",
+      "OPPONENT": "White Sox",
+      "WIN": "Rodon (2-4)",
+      "LOSS": "Melville (0-1)",
+      "SAVE": "Minaya (3)",
+      "ATTENDANCE": "N/A",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Sat, Sep 16",
-      "FIELD2": "Toronto",
-      "FIELD3": "Estrada (9-8)",
-      "FIELD4": "Mejia (4-6)",
-      "FIELD5": "",
-      "FIELD6": "29917",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Mon, Aug 21",
+      "OPPONENT": "White Sox",
+      "WIN": "Gee (1-0)",
+      "LOSS": "Fulmer (0-1)",
+      "SAVE": "Duffey (1)",
+      "ATTENDANCE": "14493",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Tue, Aug 22",
+      "OPPONENT": "White Sox",
+      "WIN": "Gibson (7-10)",
+      "LOSS": "Giolito (0-1)",
+      "SAVE": "Belisle (4)",
+      "ATTENDANCE": "14053",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Wed, Aug 23",
+      "OPPONENT": "White Sox",
+      "WIN": "Farquhar (3-2)",
+      "LOSS": "Hildenberger (2-2)",
+      "SAVE": "",
+      "ATTENDANCE": "15605",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Thu, Aug 24",
+      "OPPONENT": "White Sox",
+      "WIN": "Holland (7-13)",
+      "LOSS": "Berrios (11-6)",
+      "SAVE": "",
+      "ATTENDANCE": "16013",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Fri, Aug 25",
+      "OPPONENT": "Toronto",
+      "WIN": "Colon (4-2)",
+      "LOSS": "Happ (6-10)",
+      "SAVE": "",
+      "ATTENDANCE": "37525",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Sat, Aug 26",
+      "OPPONENT": "Toronto",
+      "WIN": "Estrada (6-8)",
+      "LOSS": "Gee (1-1)",
+      "SAVE": "Osuna (34)",
+      "ATTENDANCE": "45591",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Sun, Aug 27",
+      "OPPONENT": "Toronto",
+      "WIN": "Gibson (8-10)",
+      "LOSS": "Biagini (3-9)",
+      "SAVE": "",
+      "ATTENDANCE": "42478",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Tue, Aug 29",
+      "OPPONENT": "White Sox",
+      "WIN": "Santana (14-7)",
+      "LOSS": "Shields (2-5)",
+      "SAVE": "Belisle (5)",
+      "ATTENDANCE": "20530",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Wed, Aug 30",
+      "OPPONENT": "White Sox",
+      "WIN": "Berrios (12-6)",
+      "LOSS": "Holland (7-14)",
+      "SAVE": "",
+      "ATTENDANCE": "21172",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Thu, Aug 31",
+      "OPPONENT": "White Sox",
+      "WIN": "Belisle (1-2)",
+      "LOSS": "Minaya (2-2)",
+      "SAVE": "",
+      "ATTENDANCE": "21288",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Fri, Sep 1",
+      "OPPONENT": "Kansas City",
+      "WIN": "Hammel (7-10)",
+      "LOSS": "Gee (1-2)",
+      "SAVE": "Alexander (2)",
+      "ATTENDANCE": "24068",
+      "GAME": "H",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Sat, Sep 2",
+      "OPPONENT": "Kansas City",
+      "WIN": "Gibson (9-10)",
+      "LOSS": "Garcia (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "33413",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Sun, Sep 3",
+      "OPPONENT": "Kansas City",
+      "WIN": "Alexander (4-3)",
+      "LOSS": "Busenitz (1-1)",
+      "SAVE": "Maurer (1)",
+      "ATTENDANCE": "32234",
+      "GAME": "H",
+      "RESULT": "L"
     },
  
     {
-      "FIELD1": "Sun, Sep 17",
-      "FIELD2": "Toronto",
-      "FIELD3": "Gibson (11-10)",
-      "FIELD4": "Biagini (3-11)",
-      "FIELD5": "",
-      "FIELD6": "27572",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Mon, Sep 4",
+      "OPPONENT": "Tampa Bay",
+      "WIN": "Cobb (10-9)",
+      "LOSS": "Berrios (12-7)",
+      "SAVE": "",
+      "ATTENDANCE": "12108",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Mon, Sep 18",
-      "FIELD2": "NY Yankees",
-      "FIELD3": "Robertson (9-2)",
-      "FIELD4": "Santana (15-8)",
-      "FIELD5": "Chapman (19)",
-      "FIELD6": "30425",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Tue, Sep 5",
+      "OPPONENT": "Tampa Bay",
+      "WIN": "Odorizzi (8-7)",
+      "LOSS": "Colon (4-3)",
+      "SAVE": "Colome (42)",
+      "ATTENDANCE": "6509",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Tue, Sep 19",
-      "FIELD2": "NY Yankees",
-      "FIELD3": "Sabathia (12-5)",
-      "FIELD4": "Berrios (12-8)",
-      "FIELD5": "Chapman (20)",
-      "FIELD6": "30218",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Wed, Sep 6",
+      "OPPONENT": "Tampa Bay",
+      "WIN": "Rogers (6-3)",
+      "LOSS": "Cishek (3-2)",
+      "SAVE": "",
+      "ATTENDANCE": "7185",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Wed, Sep 20",
-      "FIELD2": "NY Yankees",
-      "FIELD3": "Shreve (4-1)",
-      "FIELD4": "Colon (4-6)",
-      "FIELD5": "",
-      "FIELD6": "30099",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Thu, Sep 7",
+      "OPPONENT": "Kansas City",
+      "WIN": "Hildenberger (3-2)",
+      "LOSS": "Herrera (3-3)",
+      "SAVE": "Belisle (6)",
+      "ATTENDANCE": "26485",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Thu, Sep 21",
-      "FIELD2": "Detroit",
-      "FIELD3": "Gee (3-2)",
-      "FIELD4": "Zimmermann (8-13)",
-      "FIELD5": "",
-      "FIELD6": "25437",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Fri, Sep 8",
+      "OPPONENT": "Kansas City",
+      "WIN": "Santana (15-7)",
+      "LOSS": "Kennedy (4-11)",
+      "SAVE": "Belisle (7)",
+      "ATTENDANCE": "31879",
+      "GAME": "@",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Sat, Sep 9",
+      "OPPONENT": "Kansas City",
+      "WIN": "Minor (6-6)",
+      "LOSS": "Pressly (2-3)",
+      "SAVE": "Maurer (2)",
+      "ATTENDANCE": "29991",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Sun, Sep 10",
+      "OPPONENT": "Kansas City",
+      "WIN": "Vargas (15-10)",
+      "LOSS": "Colon (4-4)",
+      "SAVE": "",
+      "ATTENDANCE": "35003",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Tue, Sep 12",
+      "OPPONENT": "San Diego",
+      "WIN": "Gibson (10-10)",
+      "LOSS": "Wood (2-3)",
+      "SAVE": "",
+      "ATTENDANCE": "28852",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Wed, Sep 13",
+      "OPPONENT": "San Diego",
+      "WIN": "Belisle (2-2)",
+      "LOSS": "Maton (3-1)",
+      "SAVE": "",
+      "ATTENDANCE": "20018",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Thu, Sep 14",
+      "OPPONENT": "Toronto",
+      "WIN": "Gee (2-2)",
+      "LOSS": "Santos (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "22664",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Fri, Sep 15",
+      "OPPONENT": "Toronto",
+      "WIN": "Happ (9-10)",
+      "LOSS": "Colon (4-5)",
+      "SAVE": "Osuna (36)",
+      "ATTENDANCE": "27902",
+      "GAME": "H",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Sat, Sep 16",
+      "OPPONENT": "Toronto",
+      "WIN": "Estrada (9-8)",
+      "LOSS": "Mejia (4-6)",
+      "SAVE": "",
+      "ATTENDANCE": "29917",
+      "GAME": "H",
+      "RESULT": "L"
+    },
+ 
+    {
+      "DATE": "Sun, Sep 17",
+      "OPPONENT": "Toronto",
+      "WIN": "Gibson (11-10)",
+      "LOSS": "Biagini (3-11)",
+      "SAVE": "",
+      "ATTENDANCE": "27572",
+      "GAME": "H",
+      "RESULT": "W"
+    },
+
+    {
+      "DATE": "Mon, Sep 18",
+      "OPPONENT": "NY Yankees",
+      "WIN": "Robertson (9-2)",
+      "LOSS": "Santana (15-8)",
+      "SAVE": "Chapman (19)",
+      "ATTENDANCE": "30425",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Tue, Sep 19",
+      "OPPONENT": "NY Yankees",
+      "WIN": "Sabathia (12-5)",
+      "LOSS": "Berrios (12-8)",
+      "SAVE": "Chapman (20)",
+      "ATTENDANCE": "30218",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Wed, Sep 20",
+      "OPPONENT": "NY Yankees",
+      "WIN": "Shreve (4-1)",
+      "LOSS": "Colon (4-6)",
+      "SAVE": "",
+      "ATTENDANCE": "30099",
+      "GAME": "@",
+      "RESULT": "L"
+    },
+
+    {
+      "DATE": "Thu, Sep 21",
+      "OPPONENT": "Detroit",
+      "WIN": "Gee (3-2)",
+      "LOSS": "Zimmermann (8-13)",
+      "SAVE": "",
+      "ATTENDANCE": "25437",
+      "GAME": "@",
+      "RESULT": "W"
     },
     
     {
-      "FIELD1": "Fri, Sep 22",
-      "FIELD2": "Detroit",
-      "FIELD3": "Gibson (12-10)",
-      "FIELD4": "Norris (4-8)",
-      "FIELD5": "",
-      "FIELD6": "25390",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Fri, Sep 22",
+      "OPPONENT": "Detroit",
+      "WIN": "Gibson (12-10)",
+      "LOSS": "Norris (4-8)",
+      "SAVE": "",
+      "ATTENDANCE": "25390",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sat, Sep 23",
-      "FIELD2": "Detroit",
-      "FIELD3": "Santana (16-8)",
-      "FIELD4": "Stumpf (0-1)",
-      "FIELD5": "",
-      "FIELD6": "26800",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sat, Sep 23",
+      "OPPONENT": "Detroit",
+      "WIN": "Santana (16-8)",
+      "LOSS": "Stumpf (0-1)",
+      "SAVE": "",
+      "ATTENDANCE": "26800",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Sun, Sep 24",
-      "FIELD2": "Detroit",
-      "FIELD3": "Berrios (13-8)",
-      "FIELD4": "Farmer (4-5)",
-      "FIELD5": "",
-      "FIELD6": "23882",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Sun, Sep 24",
+      "OPPONENT": "Detroit",
+      "WIN": "Berrios (13-8)",
+      "LOSS": "Farmer (4-5)",
+      "SAVE": "",
+      "ATTENDANCE": "23882",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Tue, Sep 26",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Rogers (7-3)",
-      "FIELD4": "Shaw (4-6)",
-      "FIELD5": "Belisle (8)",
-      "FIELD6": "21268",
-      "FIELD7": "@",
-      "FIELD8": "W"
+      "DATE": "Tue, Sep 26",
+      "OPPONENT": "Cleveland",
+      "WIN": "Rogers (7-3)",
+      "LOSS": "Shaw (4-6)",
+      "SAVE": "Belisle (8)",
+      "ATTENDANCE": "21268",
+      "GAME": "@",
+      "RESULT": "W"
     },
 
     {
-      "FIELD1": "Wed, Sep 27",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Clevinger (12-5)",
-      "FIELD4": "Mejia (4-7)",
-      "FIELD5": "",
-      "FIELD6": "19682",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Wed, Sep 27",
+      "OPPONENT": "Cleveland",
+      "WIN": "Clevinger (12-5)",
+      "LOSS": "Mejia (4-7)",
+      "SAVE": "",
+      "ATTENDANCE": "19682",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Thu, Sep 28",
-      "FIELD2": "Cleveland",
-      "FIELD3": "Carrasco (18-6)",
-      "FIELD4": "Hildenberger (3-3)",
-      "FIELD5": "",
-      "FIELD6": "21810",
-      "FIELD7": "@",
-      "FIELD8": "L"
+      "DATE": "Thu, Sep 28",
+      "OPPONENT": "Cleveland",
+      "WIN": "Carrasco (18-6)",
+      "LOSS": "Hildenberger (3-3)",
+      "SAVE": "",
+      "ATTENDANCE": "21810",
+      "GAME": "@",
+      "RESULT": "L"
     },
 
     {
-      "FIELD1": "Fri, Sep 29",
-      "FIELD2": "Detroit",
-      "FIELD3": "Berrios (14-8)",
-      "FIELD4": "Boyd (6-11)",
-      "FIELD5": "Belisle (9)",
-      "FIELD6": "34580",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Fri, Sep 29",
+      "OPPONENT": "Detroit",
+      "WIN": "Berrios (14-8)",
+      "LOSS": "Boyd (6-11)",
+      "SAVE": "Belisle (9)",
+      "ATTENDANCE": "34580",
+      "GAME": "H",
+      "RESULT": "W"
     },
  
     {
-      "FIELD1": "Sat, Sep 30",
-      "FIELD2": "Detroit",
-      "FIELD3": "Farmer (5-5)",
-      "FIELD4": "Slegers (0-1)",
-      "FIELD5": "Greene (9)",
-      "FIELD6": "35515",
-      "FIELD7": "H",
-      "FIELD8": "L"
+      "DATE": "Sat, Sep 30",
+      "OPPONENT": "Detroit",
+      "WIN": "Farmer (5-5)",
+      "LOSS": "Slegers (0-1)",
+      "SAVE": "Greene (9)",
+      "ATTENDANCE": "35515",
+      "GAME": "H",
+      "RESULT": "L"
     },
  
     {
-      "FIELD1": "Sun, Oct 1",
-      "FIELD2": "Detroit",
-      "FIELD3": "Colon (5-6)",
-      "FIELD4": "Sanchez (3-7)",
-      "FIELD5": "Moya (1)",
-      "FIELD6": "28148",
-      "FIELD7": "H",
-      "FIELD8": "W"
+      "DATE": "Sun, Oct 1",
+      "OPPONENT": "Detroit",
+      "WIN": "Colon (5-6)",
+      "LOSS": "Sanchez (3-7)",
+      "SAVE": "Moya (1)",
+      "ATTENDANCE": "28148",
+      "GAME": "H",
+      "RESULT": "W"
     }
 
    ]
