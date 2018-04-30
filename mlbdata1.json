@@ -1,12 +1,24 @@
 [
     {
+      "FIELD1": "A",
+      "FIELD2": "B",
+      "FIELD3": "C",
+      "FIELD4": "D",
+      "FIELD5": "E",
+      "FIELD6": "F",
+      "FIELD7" : "H",
+      "FIELD8": "G"
+    },
+    {
       "FIELD1": "DATE",
       "FIELD2": "OPPONENT",
       "FIELD3": "WIN",
       "FIELD4": "LOSS",
       "FIELD5": "SAVE",
       "FIELD6": "ATTENDANCE",
-      "FEILD7": "GAME"
+      "FIELD7": "GAME",
+      "FIELD": "RESULT"
+
     },
     {
       "FIELD1": "Mon, Apr 3",
@@ -15,7 +27,9 @@
       "FIELD4": "Strahm (0-1)",
       "FIELD5": "",
       "FIELD6": "39615",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
+
     },
 
     {
@@ -25,7 +39,8 @@
       "FIELD4": "Kennedy (0-1)",
       "FIELD5": "",
       "FIELD6": "15171",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
  
     {
@@ -35,7 +50,8 @@
       "FIELD4": "Minor (0-1)",
       "FIELD5": "Kintzler (1)",
       "FIELD6": "16078",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -45,7 +61,8 @@
       "FIELD4": "Holland (0-1)",
       "FIELD5": "Kintzler (2)",
       "FIELD6": "14004",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
  
     {
@@ -55,7 +72,8 @@
       "FIELD4": "Mejia (0-1)",
       "FIELD5": "",
       "FIELD6": "23024",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
  
     {
@@ -65,7 +83,8 @@
       "FIELD4": "Quintana (0-2)",
       "FIELD5": "Kintzler (3)",
       "FIELD6": "24074",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -75,7 +94,8 @@
       "FIELD4": "Santiago (1-1)",
       "FIELD5": "Rodriguez (3)",
       "FIELD6": "21237",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
  
     {
@@ -85,7 +105,8 @@
       "FIELD4": "Gibson (0-1)",
       "FIELD5": "Wilson (1)",
       "FIELD6": "23738",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -95,7 +116,8 @@
       "FIELD4": "Zimmermann (1-1)",
       "FIELD5": "Haley (1)",
       "FIELD6": "22573",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -105,7 +127,8 @@
       "FIELD4": "Pressly (0-1)",
       "FIELD5": "Robertson (2)",
       "FIELD6": "18466",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -115,7 +138,8 @@
       "FIELD4": "Quintana (0-3)",
       "FIELD5": "",
       "FIELD6": "25938",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -125,7 +149,8 @@
       "FIELD4": "Pressly (0-2)",
       "FIELD5": "Robertson (3)",
       "FIELD6": "19511",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -135,7 +160,8 @@
       "FIELD4": "Gibson (0-2)",
       "FIELD5": "Allen (3)",
       "FIELD6": "16961",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -145,7 +171,8 @@
       "FIELD4": "Hughes (2-1)",
       "FIELD5": "",
       "FIELD6": "16553",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
 
@@ -156,7 +183,8 @@
       "FIELD4": "Duffey (0-1)",
       "FIELD5": "",
       "FIELD6": "17339",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -166,7 +194,8 @@
       "FIELD4": "Verlander (1-2)",
       "FIELD5": "Kintzler (4)",
       "FIELD6": "22647",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -176,7 +205,8 @@
       "FIELD4": "Tonkin (0-1)",
       "FIELD5": "Rodriguez (6)",
       "FIELD6": "25719",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -186,7 +216,8 @@
       "FIELD4": "Gibson (0-3)",
       "FIELD5": "",
       "FIELD6": "26713",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -196,7 +227,8 @@
       "FIELD4": "Perez (1-3)",
       "FIELD5": "Kintzler (5)",
       "FIELD6": "19027",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -206,7 +238,8 @@
       "FIELD4": "Cashner (0-2)",
       "FIELD5": "",
       "FIELD6": "20568",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -216,7 +249,8 @@
       "FIELD4": "Rogers (1-1)",
       "FIELD5": "",
       "FIELD6": "22365",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -226,7 +260,8 @@
       "FIELD4": "Soria (1-1)",
       "FIELD5": "Kintzler (6)",
       "FIELD6": "27911",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
 
@@ -237,7 +272,8 @@
       "FIELD4": "Hammel (0-3)",
       "FIELD5": "Kintzler (7)",
       "FIELD6": "32685",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -247,7 +283,8 @@
       "FIELD4": "Gray (0-1)",
       "FIELD5": "",
       "FIELD6": "18930",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -257,7 +294,8 @@
       "FIELD4": "Graveman (2-2)",
       "FIELD5": "",
       "FIELD6": "18658",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -267,7 +305,8 @@
       "FIELD4": "Gibson (0-4)",
       "FIELD5": "Casilla (5)",
       "FIELD6": "19247",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
     
     {
@@ -277,7 +316,8 @@
       "FIELD4": "Barnes (3-1)",
       "FIELD5": "",
       "FIELD6": "28707",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -287,7 +327,8 @@
       "FIELD4": "Tepesch (0-1)",
       "FIELD5": "",
       "FIELD6": "30859",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -297,7 +338,8 @@
       "FIELD4": "Santana (5-1)",
       "FIELD5": "",
       "FIELD6": "31763",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -307,7 +349,8 @@
       "FIELD4": "Pelfrey (0-3)",
       "FIELD5": "",
       "FIELD6": "14498",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
 
@@ -318,7 +361,8 @@
       "FIELD4": "Holland (3-3)",
       "FIELD5": "Kintzler (8)",
       "FIELD6": "16084",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -328,7 +372,8 @@
       "FIELD4": "Tomlin (2-4)",
       "FIELD5": "Kintzler (9)",
       "FIELD6": "24452",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -338,7 +383,8 @@
       "FIELD4": "Clevinger (1-1)",
       "FIELD5": "Kintzler (10)",
       "FIELD6": "28379",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -348,7 +394,8 @@
       "FIELD4": "Santiago (4-2)",
       "FIELD5": "",
       "FIELD6": "23099",
-      "FEILD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -358,7 +405,8 @@
       "FIELD4": "Hughes (4-2)",
       "FIELD5": "Holland (17)",
       "FIELD6": "24295",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
  
     {
@@ -368,7 +416,8 @@
       "FIELD4": "Santana (6-2)",
       "FIELD5": "Holland (18)",
       "FIELD6": "20603",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -378,7 +427,8 @@
       "FIELD4": "Chatwood (3-6)",
       "FIELD5": "Kintzler (11)",
       "FIELD6": "17140",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -388,7 +438,8 @@
       "FIELD4": "Alburquerque (0-1)",
       "FIELD5": "",
       "FIELD6": "23553",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
 
@@ -400,7 +451,8 @@
       "FIELD4": "Hughes (4-3)",
       "FIELD5": "Herrera (9)",
       "FIELD6": "N/A",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -410,7 +462,8 @@
       "FIELD4": "Kennedy (0-4)",
       "FIELD5": "",
       "FIELD6": "27852",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -420,7 +473,8 @@
       "FIELD4": "Wilson (2-2)",
       "FIELD5": "",
       "FIELD6": "12882",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -430,7 +484,8 @@
       "FIELD4": "Bundy (5-3)",
       "FIELD5": "",
       "FIELD6": "13294",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -440,7 +495,8 @@
       "FIELD4": "Tillman (1-1)",
       "FIELD5": "Kintzler (12)",
       "FIELD6": "32267",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -450,7 +506,8 @@
       "FIELD4": "Santiago (4-3)",
       "FIELD5": "Colome (13)",
       "FIELD6": "20949",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -460,7 +517,8 @@
       "FIELD4": "Farquhar (2-2)",
       "FIELD5": "Kintzler (13)",
       "FIELD6": "27531",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -470,7 +528,8 @@
       "FIELD4": "Santiago (4-4)",
       "FIELD5": "Ramirez (1)",
       "FIELD6": "28951",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -480,7 +539,8 @@
       "FIELD4": "Breslow (1-1)",
       "FIELD5": "",
       "FIELD6": "24472",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -490,7 +550,8 @@
       "FIELD4": "Berrios (3-1)",
       "FIELD5": "",
       "FIELD6": "22616",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
  
     {
@@ -500,7 +561,8 @@
       "FIELD4": "Santiago (4-5)",
       "FIELD5": "",
       "FIELD6": "25593",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -510,7 +572,8 @@
       "FIELD4": "Alvarez (0-2)",
       "FIELD5": "Kintzler (14)",
       "FIELD6": "33426",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -520,7 +583,8 @@
       "FIELD4": "Ramirez (5-4)",
       "FIELD5": "",
       "FIELD6": "39042",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -530,7 +594,8 @@
       "FIELD4": "Santana (7-3)",
       "FIELD5": "",
       "FIELD6": "40236",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -540,7 +605,8 @@
       "FIELD4": "Nolasco (2-6)",
       "FIELD5": "Kintzler (15)",
       "FIELD6": "39701",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -550,7 +616,8 @@
       "FIELD4": "Santiago (4-6)",
       "FIELD5": "",
       "FIELD6": "18166",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -560,7 +627,8 @@
       "FIELD4": "Kintzler (2-1)",
       "FIELD5": "",
       "FIELD6": "15732",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -570,8 +638,10 @@
       "FIELD4": "Bergman (3-3)",
       "FIELD5": "Kintzler (16)",
       "FIELD6": "15621",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
+
     {
       "FIELD1": "Fri, Jun 9",
       "FIELD2": "San Francisco",
@@ -579,7 +649,8 @@
       "FIELD4": "Moore (2-7)",
       "FIELD5": "",
       "FIELD6": "41046",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -589,7 +660,8 @@
       "FIELD4": "Samardzija (2-8)",
       "FIELD5": "Kintzler (17)",
       "FIELD6": "41255",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -599,7 +671,8 @@
       "FIELD4": "Belisle (0-1)",
       "FIELD5": "",
       "FIELD6": "41321",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -609,7 +682,8 @@
       "FIELD4": "Mejia (1-2)",
       "FIELD5": "",
       "FIELD6": "16996",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -619,7 +693,8 @@
       "FIELD4": "Bergman (3-4)",
       "FIELD5": "",
       "FIELD6": "17922",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
  
     {
@@ -629,7 +704,8 @@
       "FIELD4": "Santana (8-4)",
       "FIELD5": "Diaz (11)",
       "FIELD6": "22283",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -639,7 +715,8 @@
       "FIELD4": "Miranda (6-3)",
       "FIELD5": "",
       "FIELD6": "24464",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
  
     {
@@ -649,7 +726,8 @@
       "FIELD4": "Turley (0-1)",
       "FIELD5": "",
       "FIELD6": "30563",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -659,7 +737,8 @@
       "FIELD4": "Wilk (0-1)",
       "FIELD5": "",
       "FIELD6": "24010",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -669,7 +748,8 @@
       "FIELD4": "Mejia (1-3)",
       "FIELD5": "",
       "FIELD6": "21371",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -679,7 +759,8 @@
       "FIELD4": "Gibson (4-5)",
       "FIELD5": "Miller (1)",
       "FIELD6": "35039",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -689,7 +770,8 @@
       "FIELD4": "Holland (5-7)",
       "FIELD5": "Kintzler (18)",
       "FIELD6": "26095",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -699,7 +781,8 @@
       "FIELD4": "Holmberg (1-1)",
       "FIELD5": "Kintzler (19)",
       "FIELD6": "33316",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -709,7 +792,8 @@
       "FIELD4": "Turley (0-2)",
       "FIELD5": "",
       "FIELD6": "27684",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
  
     {
@@ -719,7 +803,8 @@
       "FIELD4": "Bauer (6-6)",
       "FIELD5": "",
       "FIELD6": "31725",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
   
     {
@@ -729,7 +814,8 @@
       "FIELD4": "Allen (0-3)",
       "FIELD5": "Kintzler (20)",
       "FIELD6": "33111",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -739,7 +825,8 @@
       "FIELD4": "Tomlin (4-9)",
       "FIELD5": "",
       "FIELD6": "29672",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -749,7 +836,8 @@
       "FIELD4": "Berrios (7-2)",
       "FIELD5": "Kimbrel (21)",
       "FIELD6": "37172",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
   
     {
@@ -759,7 +847,8 @@
       "FIELD4": "Santiago (4-7)",
       "FIELD5": "",
       "FIELD6": "36804",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -769,7 +858,8 @@
       "FIELD4": "Porcello (4-10)",
       "FIELD5": "Kintzler (21)",
       "FIELD6": "37487",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -779,7 +869,8 @@
       "FIELD4": "Gibson (4-6)",
       "FIELD5": "Kimbrel (22)",
       "FIELD6": "37445",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -789,7 +880,8 @@
       "FIELD4": "Santana (10-5)",
       "FIELD5": "",
       "FIELD6": "34332",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -799,7 +891,8 @@
       "FIELD4": "Duffey (0-2)",
       "FIELD5": "",
       "FIELD6": "25571",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -809,7 +902,8 @@
       "FIELD4": "Hammel (4-7)",
       "FIELD5": "",
       "FIELD6": "32448",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -819,7 +913,8 @@
       "FIELD4": "Santiago (4-8)",
       "FIELD5": "",
       "FIELD6": "28775",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -829,7 +924,8 @@
       "FIELD4": "Meyer (3-5)",
       "FIELD5": "",
       "FIELD6": "36182",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -839,7 +935,8 @@
       "FIELD4": "Ramirez (7-7)",
       "FIELD5": "Kintzler (22)",
       "FIELD6": "25013",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
  
     {
@@ -849,7 +946,8 @@
       "FIELD4": "Santana (10-6)",
       "FIELD5": "Norris (12)",
       "FIELD6": "19106",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -859,7 +957,8 @@
       "FIELD4": "Bundy (8-8)",
       "FIELD5": "Kintzler (23)",
       "FIELD6": "19706",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -869,7 +968,8 @@
       "FIELD4": "Castro (1-1)",
       "FIELD5": "Kintzler (24)",
       "FIELD6": "28668",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -879,7 +979,8 @@
       "FIELD4": "Mejia (4-4)",
       "FIELD5": "",
       "FIELD6": "26323",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -889,7 +990,8 @@
       "FIELD4": "Gibson (5-7)",
       "FIELD5": "",
       "FIELD6": "25848",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -909,7 +1011,8 @@
       "FIELD4": "Musgrove (4-8)",
       "FIELD5": "Kintzler (25)",
       "FIELD6": "41038",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -919,7 +1022,8 @@
       "FIELD4": "Gibson (5-8)",
       "FIELD5": "Giles (20)",
       "FIELD6": "38253",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -929,7 +1033,8 @@
       "FIELD4": "Smith (0-1)",
       "FIELD5": "Kintzler (26)",
       "FIELD6": "27566",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -939,7 +1044,8 @@
       "FIELD4": "Colon (0-1)",
       "FIELD5": "Chapman (10)",
       "FIELD6": "33114",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -949,7 +1055,8 @@
       "FIELD4": "Montgomery (6-5)",
       "FIELD5": "",
       "FIELD6": "33380",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -959,7 +1066,8 @@
       "FIELD4": "Santana (11-7)",
       "FIELD5": "Wilson (11)",
       "FIELD6": "22369",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -969,7 +1077,8 @@
       "FIELD4": "Zimmermann (6-8)",
       "FIELD5": "Kintzler (27)",
       "FIELD6": "33700",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -979,7 +1088,8 @@
       "FIELD4": "Hildenberger (1-1)",
       "FIELD5": "Wilson (12)",
       "FIELD6": "28373",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -988,7 +1098,8 @@
       "FIELD3": "Paredes (1-0)",
       "FIELD4": "Rogers (5-2)",
       "FIELD5": "Jansen (25)",
-      "FIELD6": "47754"
+      "FIELD6": "47754",
+      "FIELD8": "L"
     },
 
     {
@@ -998,7 +1109,8 @@
       "FIELD4": "Berrios (9-4)",
       "FIELD5": "Ravin (1)",
       "FIELD6": "44403",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1008,7 +1120,8 @@
       "FIELD4": "Kintzler (2-2)",
       "FIELD5": "",
       "FIELD6": "50941",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1018,7 +1131,8 @@
       "FIELD4": "Gossett (2-6)",
       "FIELD5": "Kintzler (28)",
       "FIELD6": "17727",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1028,7 +1142,8 @@
       "FIELD4": "Rogers (5-3)",
       "FIELD5": "",
       "FIELD6": "27047",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
  
     {
@@ -1038,7 +1153,8 @@
       "FIELD4": "Duffey (0-3)",
       "FIELD5": "",
       "FIELD6": "16790",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1048,7 +1164,8 @@
       "FIELD4": "Berrios (9-5)",
       "FIELD5": "Hand (7)",
       "FIELD6": "24491",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1058,7 +1175,8 @@
       "FIELD4": "Perdomo (5-6)",
       "FIELD5": "",
       "FIELD6": "23806",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1068,7 +1186,8 @@
       "FIELD4": "Mejia (4-5)",
       "FIELD5": "Claudio (5)",
       "FIELD6": "22903",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
  
     {
@@ -1078,7 +1197,8 @@
       "FIELD4": "Perez (5-10)",
       "FIELD5": "",
       "FIELD6": "22272",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1088,7 +1208,8 @@
       "FIELD4": "Gibson (6-9)",
       "FIELD5": "",
       "FIELD6": "27415",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -1098,7 +1219,8 @@
       "FIELD4": "Bibens-Dirkx (3-2)",
       "FIELD5": "Belisle (1)",
       "FIELD6": "29056",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1108,7 +1230,8 @@
       "FIELD4": "Drake (3-4)",
       "FIELD5": "Belisle (2)",
       "FIELD6": "31339",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1118,7 +1241,8 @@
       "FIELD4": "Garza (5-6)",
       "FIELD5": "Gee (1)",
       "FIELD6": "34185",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1128,7 +1252,8 @@
       "FIELD4": "Woodruff (1-1)",
       "FIELD5": "",
       "FIELD6": "30174",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
  
     {
@@ -1138,7 +1263,8 @@
       "FIELD4": "Davies (13-6)",
       "FIELD5": "",
       "FIELD6": "33904",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1148,7 +1274,8 @@
       "FIELD4": "Sanchez (3-3)",
       "FIELD5": "",
       "FIELD6": "29733",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1158,7 +1285,8 @@
       "FIELD4": "Belisle (0-2)",
       "FIELD5": "",
       "FIELD6": "33006",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1168,7 +1296,8 @@
       "FIELD4": "Rondon (1-3)",
       "FIELD5": "Hildenberger (1)",
       "FIELD6": "30582",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1178,7 +1307,8 @@
       "FIELD4": "Colon (2-2)",
       "FIELD5": "",
       "FIELD6": "29626",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -1188,7 +1318,8 @@
       "FIELD4": "Gibson (6-10)",
       "FIELD5": "",
       "FIELD6": "29579",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -1198,7 +1329,8 @@
       "FIELD4": "Clevinger (6-5)",
       "FIELD5": "Belisle (3)",
       "FIELD6": "22857",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1208,7 +1340,8 @@
       "FIELD4": "Godley (5-6)",
       "FIELD5": "",
       "FIELD6": "25830",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1218,7 +1351,8 @@
       "FIELD4": "Greinke (14-6)",
       "FIELD5": "",
       "FIELD6": "29456",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1228,7 +1362,8 @@
       "FIELD4": "McFarland (4-5)",
       "FIELD5": "",
       "FIELD6": "27367",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1238,7 +1373,8 @@
       "FIELD4": "Melville (0-1)",
       "FIELD5": "Minaya (3)",
       "FIELD6": "N/A",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1248,7 +1384,8 @@
       "FIELD4": "Fulmer (0-1)",
       "FIELD5": "Duffey (1)",
       "FIELD6": "14493",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1258,7 +1395,8 @@
       "FIELD4": "Giolito (0-1)",
       "FIELD5": "Belisle (4)",
       "FIELD6": "14053",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1268,7 +1406,8 @@
       "FIELD4": "Hildenberger (2-2)",
       "FIELD5": "",
       "FIELD6": "15605",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1278,7 +1417,8 @@
       "FIELD4": "Berrios (11-6)",
       "FIELD5": "",
       "FIELD6": "16013",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1288,7 +1428,8 @@
       "FIELD4": "Happ (6-10)",
       "FIELD5": "",
       "FIELD6": "37525",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1298,7 +1439,8 @@
       "FIELD4": "Gee (1-1)",
       "FIELD5": "Osuna (34)",
       "FIELD6": "45591",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1308,7 +1450,8 @@
       "FIELD4": "Biagini (3-9)",
       "FIELD5": "",
       "FIELD6": "42478",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1318,7 +1461,8 @@
       "FIELD4": "Shields (2-5)",
       "FIELD5": "Belisle (5)",
       "FIELD6": "20530",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1328,7 +1472,8 @@
       "FIELD4": "Holland (7-14)",
       "FIELD5": "",
       "FIELD6": "21172",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1338,7 +1483,8 @@
       "FIELD4": "Minaya (2-2)",
       "FIELD5": "",
       "FIELD6": "21288",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1348,7 +1494,8 @@
       "FIELD4": "Gee (1-2)",
       "FIELD5": "Alexander (2)",
       "FIELD6": "24068",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -1358,7 +1505,8 @@
       "FIELD4": "Garcia (0-1)",
       "FIELD5": "",
       "FIELD6": "33413",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1368,7 +1516,8 @@
       "FIELD4": "Busenitz (1-1)",
       "FIELD5": "Maurer (1)",
       "FIELD6": "32234",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
  
     {
@@ -1378,7 +1527,8 @@
       "FIELD4": "Berrios (12-7)",
       "FIELD5": "",
       "FIELD6": "12108",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1388,7 +1538,8 @@
       "FIELD4": "Colon (4-3)",
       "FIELD5": "Colome (42)",
       "FIELD6": "6509",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1398,7 +1549,8 @@
       "FIELD4": "Cishek (3-2)",
       "FIELD5": "",
       "FIELD6": "7185",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1408,7 +1560,8 @@
       "FIELD4": "Herrera (3-3)",
       "FIELD5": "Belisle (6)",
       "FIELD6": "26485",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1418,7 +1571,8 @@
       "FIELD4": "Kennedy (4-11)",
       "FIELD5": "Belisle (7)",
       "FIELD6": "31879",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1428,7 +1582,8 @@
       "FIELD4": "Pressly (2-3)",
       "FIELD5": "Maurer (2)",
       "FIELD6": "29991",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1438,7 +1593,8 @@
       "FIELD4": "Colon (4-4)",
       "FIELD5": "",
       "FIELD6": "35003",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1448,7 +1604,8 @@
       "FIELD4": "Wood (2-3)",
       "FIELD5": "",
       "FIELD6": "28852",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1458,7 +1615,8 @@
       "FIELD4": "Maton (3-1)",
       "FIELD5": "",
       "FIELD6": "20018",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1468,7 +1626,8 @@
       "FIELD4": "Santos (0-1)",
       "FIELD5": "",
       "FIELD6": "22664",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1478,7 +1637,8 @@
       "FIELD4": "Colon (4-5)",
       "FIELD5": "Osuna (36)",
       "FIELD6": "27902",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
 
     {
@@ -1488,7 +1648,8 @@
       "FIELD4": "Mejia (4-6)",
       "FIELD5": "",
       "FIELD6": "29917",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
  
     {
@@ -1498,7 +1659,8 @@
       "FIELD4": "Biagini (3-11)",
       "FIELD5": "",
       "FIELD6": "27572",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
 
     {
@@ -1508,7 +1670,8 @@
       "FIELD4": "Santana (15-8)",
       "FIELD5": "Chapman (19)",
       "FIELD6": "30425",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1518,7 +1681,8 @@
       "FIELD4": "Berrios (12-8)",
       "FIELD5": "Chapman (20)",
       "FIELD6": "30218",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1528,7 +1692,8 @@
       "FIELD4": "Colon (4-6)",
       "FIELD5": "",
       "FIELD6": "30099",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1538,7 +1703,8 @@
       "FIELD4": "Zimmermann (8-13)",
       "FIELD5": "",
       "FIELD6": "25437",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
     
     {
@@ -1548,7 +1714,8 @@
       "FIELD4": "Norris (4-8)",
       "FIELD5": "",
       "FIELD6": "25390",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1558,7 +1725,8 @@
       "FIELD4": "Stumpf (0-1)",
       "FIELD5": "",
       "FIELD6": "26800",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1568,7 +1736,8 @@
       "FIELD4": "Farmer (4-5)",
       "FIELD5": "",
       "FIELD6": "23882",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1578,7 +1747,8 @@
       "FIELD4": "Shaw (4-6)",
       "FIELD5": "Belisle (8)",
       "FIELD6": "21268",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "W"
     },
 
     {
@@ -1588,7 +1758,8 @@
       "FIELD4": "Mejia (4-7)",
       "FIELD5": "",
       "FIELD6": "19682",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1598,7 +1769,8 @@
       "FIELD4": "Hildenberger (3-3)",
       "FIELD5": "",
       "FIELD6": "21810",
-      "FIELD7": "@"
+      "FIELD7": "@",
+      "FIELD8": "L"
     },
 
     {
@@ -1608,7 +1780,8 @@
       "FIELD4": "Boyd (6-11)",
       "FIELD5": "Belisle (9)",
       "FIELD6": "34580",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     },
  
     {
@@ -1618,7 +1791,8 @@
       "FIELD4": "Slegers (0-1)",
       "FIELD5": "Greene (9)",
       "FIELD6": "35515",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "L"
     },
  
     {
@@ -1628,7 +1802,8 @@
       "FIELD4": "Sanchez (3-7)",
       "FIELD5": "Moya (1)",
       "FIELD6": "28148",
-      "FIELD7": "H"
+      "FIELD7": "H",
+      "FIELD8": "W"
     }
 
    ]
